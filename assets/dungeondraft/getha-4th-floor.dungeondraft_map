@@ -300,7 +300,7 @@
 		"format": 3,
 		"width": 30,
 		"height": 30,
-		"next_node_id": "3d",
+		"next_node_id": "3e",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -1867,6 +1867,16 @@
 							"width": 256,
 							"type": 1,
 							"node_id": "1e"
+						},
+						{
+							"position": "Vector2( 0, 0 )",
+							"rotation": 0,
+							"scale": "Vector2( 1, 1 )",
+							"points": "PoolVector2Array( 2849.33, 2566.66, 3564, 2566.66 )",
+							"texture": "res://packs/O4DHShnv/textures/roofs/Roof_A2_Brown/tiles.png",
+							"width": 122.666626,
+							"type": 1,
+							"node_id": "3d"
 						}
 					]
 				},

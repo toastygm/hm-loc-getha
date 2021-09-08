@@ -1,5 +1,5 @@
 (() => {
-  const adventureName = 'Getha Keep';
+  const adventureName = 'Getha';
   const moduleName = 'hm-loc-getha';
 
   /**
