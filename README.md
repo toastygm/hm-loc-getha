@@ -13,6 +13,86 @@ Getha is the largest village in Fethael Hundred. The seat and ancestral home of 
 Indama clan, this village also provides goods and services to Silver Way caravans
 and travelers.
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## Getha Village
+
+Map of Getha Village, including the keep.
+
+<img src="assets/scenes/getha-area-player.png" alt="Getha Village" width="600"/>
+
+## Gatehouse Inn
+
+Cellar.
+
+<img src="assets/scenes/gatehouse-inn-cellar.webp" alt="Gatehouse Inn Cellar" width="600"/>
+
+Ground floor.
+
+<img src="assets/scenes/gatehouse-inn-ground.webp" alt="Gatehouse Inn Ground" width="600"/>
+
+Upper floor.
+
+<img src="assets/scenes/gatehouse-inn-2nd.webp" alt="Gatehouse Inn Upper" width="600"/>
+
+## Leaky Bucket Inn
+
+Cellar.
+
+<img src="assets/scenes/leaky-bucket-cellar.webp" alt="Leaky Bucket Cellar" width="600"/>
+
+Ground floor.
+
+<img src="assets/scenes/leaky-bucket-ground.webp" alt="Leaky Bucket Ground" width="600"/>
+
+Upper floor.
+
+<img src="assets/scenes/leaky-bucket-2nd.webp" alt="Leaky Bucket Upper" width="600"/>
+
+## Temple of Halea
+
+Ground floor.
+
+<img src="assets/scenes/temple-of-halea-ground.webp" alt="Temple of Halea Ground" width="600"/>
+
+Second floor.
+
+<img src="assets/scenes/temple-of-halea-2nd.webp" alt="Temple of Halea Second Floor" width="600"/>
+
+Third floor.
+
+<img src="assets/scenes/temple-of-halea-3rd.webp" alt="Temple of Halea Third Floor" width="600"/>
+
+## Getha Keep
+
+Cellar (Ground Level).
+
+<img src="assets/scenes/getha-keep-0.webp" alt="Getha Keep Cellar" width="600"/>
+
+Entry floor.
+
+<img src="assets/scenes/getha-keep-1.webp" alt="Getha Keep First Floor" width="600"/>
+
+
+Main hall floor.
+
+<img src="assets/scenes/getha-keep-2.webp" alt="Getha Keep Second Floor" width="600"/>
+
+
+Residence floor.
+
+<img src="assets/scenes/getha-keep-3.webp" alt="Getha Keep Third Floor" width="600"/>
+
+
+Roof and Towers.
+
+<img src="assets/scenes/getha-keep-4.webp" alt="Getha Keep Fourth Floor" width="600"/>
+
+
 # Credits
 
 This module is made possible by the hard work of HârnWorld fans,
