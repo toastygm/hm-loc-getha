@@ -172,8 +172,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 2448.54, 4585.05 )",
-			"camera_zoom": 2.666667,
+			"camera_position": "Vector2( 2838.54, 2027.05 )",
+			"camera_zoom": 1,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -301,7 +301,7 @@
 		"format": 3,
 		"width": 30,
 		"height": 30,
-		"next_node_id": "14c",
+		"next_node_id": "153",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -321,7 +321,7 @@
 			"0": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -1784,6 +1784,34 @@
 				],
 				"walls": [
 					{
+						"points": "PoolVector2Array( 1612.54, 1611.05, 1792.54, 1787.05 )",
+						"texture": "res://packs/w4GH4hnv/textures/walls/Curb-1-wall.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "152",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 5372.54, 5377.05, 5549.54, 5556.05 )",
+						"texture": "res://packs/w4GH4hnv/textures/walls/Curb-1-wall.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "151",
+						"portals": [
+
+						]
+					},
+					{
 						"points": "PoolVector2Array( 1792, 2048, 1664, 2304, 1536, 2048, 1536, 1920, 1280, 1792, 1536, 1664, 1536, 1536, 1664, 1536, 1792, 1280, 1920, 1536, 2048, 1536, 2304, 1664, 2048, 1792 )",
 						"texture": "res://packs/w4GH4hnv/textures/walls/Curb-1-wall.png",
 						"color": "ffffffff",
@@ -1846,20 +1874,6 @@
 						"normalize_uv": true,
 						"shadow": false,
 						"node_id": "9b",
-						"portals": [
-
-						]
-					},
-					{
-						"points": "PoolVector2Array( 5376, 5376, 4992, 5376 )",
-						"texture": "res://packs/w4GH4hnv/textures/walls/Curb-1-wall.png",
-						"color": "ffffffff",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": false,
-						"node_id": "8d",
 						"portals": [
 
 						]
