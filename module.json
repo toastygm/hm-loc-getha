@@ -2,7 +2,7 @@
   "name": "hm-loc-getha",
   "title": "Getha Keep",
   "description": "Getha is the largest village in Fethael Hundred. The seat and ancestral home of the Indama clan, this village also provides goods and services to Silver Way caravans and travelers.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
   "bugs": "https://github.com/toastygm/hm-loc-getha/issues",
@@ -40,7 +40,7 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-getha/",
   "manifest": "https://github.com/toastygm/hm-loc-getha/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-getha/releases/latest/download/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-getha/releases/download/v1.1.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
