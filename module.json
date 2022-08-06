@@ -27,9 +27,7 @@
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-  "minimumCoreVersion": "10",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
@@ -38,17 +36,13 @@
       "label": "Getha Keep Scenes",
       "name": "scenes",
       "path": "packs/scenes.db",
-      "type": "Scene",
-      "private": false,
-      "flags": {}
+      "type": "Scene"
     },
     {
       "label": "Getha Keep Journals",
       "name": "journals",
       "path": "packs/journals.db",
-      "type": "JournalEntry",
-      "private": false,
-      "flags": {}
+      "type": "JournalEntry"
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-getha/",
