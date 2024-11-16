@@ -1,0 +1,1652 @@
+{
+  "name": "Getha Village",
+  "pages": [
+    {
+      "name": "Getha Village",
+      "type": "text",
+      "text": {
+        "content": "<p>The most striking fact about Getha village is the small number of clan names. Almost all of the people belong to one of a very small set of families. No matter that the clans have intermarried, individuals will be referred to as “an Andin” or “a Berma” their entire lives. Most of this is good-natured jesting but some families do not get along.</p>\n<p>There is a simmering distrust between the Berma and Haral families. No one remembers why, really. There was something to do with an engagement that was broken off at the last minute when a Haral accused his Berma fiancée of being unfaithful and trying to trick him into rearing someone else’s bastard. The Berma clan denied the charge and for a few years the woods between Denwald (where the Berma hail from) and Drilen (the ancestral home of the Haral) were full of ambushes, stolen animals, and bad blood. Sir Chimin’s father finally settled the dispute but the mistrust between the clans lingers to this day.</p>\n<p>The craftsmen and free farmers of the village pride themselves on the stone houses they live in. These stout, neat homes of dressed field stone are one or two stories tall and have strong wood shingled roofs. Tall walls, covered with climbing plants and flowers, surround all of these houses and decorate the narrow gravel streets.</p>\n<p>The Silver Way, the main trading route of the eastern part of the kingdom, is a graveled road, wide enough for two wagons to pass each other. The roadway is sloped to let the frequent rains run off and the eastern side of the road has a ditch to carry off the water. The four foot deep ditch frequently has water (and other things) in it and buildings on the eastern side of the Silver Way have short, wide bridges to cross this deep obstacle.</p>\n<p>The houses of the village’s unfree populace are mostly split timber with thatched roofs, the walls between the timbers being made from wattle and daub. The other side is used as a byre for the animals. Because of the number of roof fires in the village, the Constable has decreed that all chimneys be made of stone, rather than the more usual mud and stick.</p>\n<h2>Map Key</h2>\n<p>Refer to the following table for details on village residents.</p>\n<table border=\"1\">\n<thead>\n<tr>\n<th style=\"width:3em\">Loc</th>\n<th style=\"width:10em\">NPC Name</th>\n<th>Journal Entry</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Lunda Penten</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.v0RSXCWfiBk3PvpE]{[1] Royal Toll House}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Rolen Cybela</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.H1exin8bS9XUpQbh]{[2] Tentmaker}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Sildan Cybela</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.637wctYPS0ULCv2b]{[3] Woodcrafter}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Olmael Sermel</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.ko2BOZpwhDjFRYOg]{[4] The Gatehouse Inn}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Elas Etine</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.agoFPFnO2zADjdWJ]{[5] Miller}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Parlarn Shotoshi</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.vN0F77B2305NjOKh]{[6] Whitesmith}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Lunda the Toll Keeper</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.WfeFwzzb9Yymflzr]{[7] Bond House}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Preistess Dybrine Iastro</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.2lYliFKVPvaznDJ6]{[8] Temple of Halea}</td>\n</tr>\n<tr>\n<td>9</td>\n<td> </td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.9Y6t4OynEYewBZxI]{[9] Hall of the Mangai}</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Garal Kramel</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.dlj9hqxT3PuEyKvd]{[10] Perfumer}</td>\n</tr>\n<tr>\n<td>11</td>\n<td>Marala of Darion</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.sffnzGoBHuR1cZsZ]{[11] Potter}</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Regan Astal</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Wraw2Kd9DfUACPRI]{[12] Carpenter Regan Astal}</td>\n</tr>\n<tr>\n<td>13</td>\n<td> </td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.TKgZZ2snrs5o9UEc]{[13] Fish Pond}</td>\n</tr>\n<tr>\n<td>14</td>\n<td>Worisi Urdel</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.oMdAauuI8i6bmqIU]{[14] Farmer Worisi Urdel}</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Medil Jontroben</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.fPyUHraTxGBmO2Ag]{[15] Farmer Medil Jontroben}</td>\n</tr>\n<tr>\n<td>16</td>\n<td>Tarabrakan Haral</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.XTGDRdFXXO09HKHC]{[16] Mason}</td>\n</tr>\n<tr>\n<td>17</td>\n<td>Lanasai Asaka</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.81BQDj2lD3arOKdU]{[17] Farmer Lanasai Asaka}</td>\n</tr>\n<tr>\n<td>18</td>\n<td>Penala Lubris the Fat</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.EGHaZJHEsMgw4VGw]{[18] Temple of Peoni}</td>\n</tr>\n<tr>\n<td>19</td>\n<td>Tonatar Krabel</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.BUA6dhDqP01avphn]{[19] Mercantyler Tonatar Krabel}</td>\n</tr>\n<tr>\n<td>20</td>\n<td>Ebasethe Erconral the Tall</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.N2kvt0tKseLV825y]{[20] Hospital}</td>\n</tr>\n<tr>\n<td>21</td>\n<td>Jisen Dethale</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.OKcUsAAjYU8vYhpk]{[21] Physician}</td>\n</tr>\n<tr>\n<td>22</td>\n<td>Cherin Ailt</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.QpgFWhsbp1RGsJ53]{[22] Apothecary}</td>\n</tr>\n<tr>\n<td>23</td>\n<td>Urin Tynar</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.oSxO1cfnuXN0DMnO]{[23] Moneylender}</td>\n</tr>\n<tr>\n<td>24</td>\n<td>Shalas Quiribor</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Zhw8C3GuF1HRmOWD]{[24] Litigant}</td>\n</tr>\n<tr>\n<td>25</td>\n<td>Ongor Haral</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.fAX4U9zFXOI4D0m7]{[25] Scribe}</td>\n</tr>\n<tr>\n<td>26</td>\n<td>Bainin Darion</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.FZsqX6i4fbGjxLnN]{[26] Clothier}</td>\n</tr>\n<tr>\n<td>27</td>\n<td>Varybis Haral</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.EyPpa7vg1UmII8nd]{[27] Mercantyler Varybis Haral}</td>\n</tr>\n<tr>\n<td>28</td>\n<td>Dargir Yaleh</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.OimSYYI8rDMaWuUp]{[28] Ostler Dargir Yaleh}</td>\n</tr>\n<tr>\n<td>29</td>\n<td>Aras Desa</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Mq68rHCBG9C3n0qo]{[29] Chandler}</td>\n</tr>\n<tr>\n<td>30</td>\n<td>Turin Cybela</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.lGrdWUA5CWo5XQHE]{[30] Carpenter Turin Cybela}</td>\n</tr>\n<tr>\n<td>31</td>\n<td>Crok Astal</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.BjmOtAEZn3yUDnOG]{[31] Hideworker}</td>\n</tr>\n<tr>\n<td>32</td>\n<td>Sedlin Andin</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.txGXxaOInX790toQ]{[32] Salter}</td>\n</tr>\n<tr>\n<td>33</td>\n<td>Raena Berma</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.uQ4fXxCthQp8VBMj]{[33] Metalsmith}</td>\n</tr>\n<tr>\n<td>34</td>\n<td>Erebel Sermel</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.q4D86XupQEE2wMr6]{[34] Ostler Erebel Sermel}</td>\n</tr>\n<tr>\n<td>35</td>\n<td>Sersyl Berma</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.5mGhgPAr0boqgPNB]{[35] The Leaky Bucket}</td>\n</tr>\n<tr>\n<td>36</td>\n<td> </td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.SWZfTxDbIgN9C8F0]{[36] Goose Green}</td>\n</tr>\n<tr>\n<td>37</td>\n<td>Maranis Arsarl</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.gOj8RetruVShMcSb]{[37] Half-Villein Maranis Arsarl}</td>\n</tr>\n<tr>\n<td>38</td>\n<td>Pulinia Tyun</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.9TnP4E3cEQbbQEop]{[38] Half-Villein Pulinia Tyun}</td>\n</tr>\n<tr>\n<td>39</td>\n<td>Rerbel Tyun</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.mkv3UMMsZ8iKjOja]{[39] Cottar Rerbel Tyun}</td>\n</tr>\n<tr>\n<td>40</td>\n<td>Krovin Dyren</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.geOrsWoCPZ0ZnM5C]{[40] Villein Krovin Dyren}</td>\n</tr>\n<tr>\n<td>41</td>\n<td> </td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.hshmnqV37xACsO8r]{[41] Orchard}</td>\n</tr>\n<tr>\n<td>42</td>\n<td>Tazar Tyun</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.u058yeDU2VYIm3x9]{[42] Reeve}</td>\n</tr>\n<tr>\n<td>43</td>\n<td>Usaran Churil</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.GPgiHZW73o1b8dVO]{[43] Woodward}</td>\n</tr>\n<tr>\n<td>44</td>\n<td>Merdin Churil</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.tt3TtmagHwZhINq6]{[44] Half-Villein Merdin Churil}</td>\n</tr>\n<tr>\n<td>45</td>\n<td>Soris Kleve</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.rSssaWJ72CY2Ijf1]{[45] Villein Soris Kleve}</td>\n</tr>\n<tr>\n<td>46</td>\n<td>Therin Oralis</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.xEF7qgXBmvxyQplX]{[46] Half-Villein Therin Oralis}</td>\n</tr>\n<tr>\n<td>47</td>\n<td>Ildon Oralis</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.AOz2cLSOq0wOeRe6]{[47] Half-Villein Ildon Oralis - Herder}</td>\n</tr>\n<tr>\n<td>48</td>\n<td>Labra Nelt</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.le6XKVdKupVRaawA]{[48] Half-Villein Labra Nelt}</td>\n</tr>\n<tr>\n<td>49</td>\n<td>Charael Churil</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.DDcswiTqlslX4rUX]{[49] Villein Charael Churil}</td>\n</tr>\n<tr>\n<td>50</td>\n<td>Brendin Asaka</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.tLN5AxQA1aoZPxUU]{[50] Charcoaler}</td>\n</tr>\n<tr>\n<td>51</td>\n<td>Barin Nelt</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.YcxWlwfrPtjf2es2]{[51] Beadle}</td>\n</tr>\n<tr>\n<td>52</td>\n<td>Zaren Faleren</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.7Qz3FyveCo33TVyM]{[52] Cottar Zarel Faleren}</td>\n</tr>\n<tr>\n<td>53</td>\n<td>Thirlan Faleren</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.SgHIbmRuM6FrWrtE]{[53] Half-Villein Thirlan Faleren}</td>\n</tr>\n<tr>\n<td>54</td>\n<td>Hoalda Faleren</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.3YUuyvHCLAUF5fo8]{[54] Half-Villein Hoalda Faleren}</td>\n</tr>\n<tr>\n<td>55</td>\n<td>Arlaren Astal</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.RRE9lHSlZnaqZ4OY]{[55] Thatcher}</td>\n</tr>\n<tr>\n<td>56</td>\n<td>Arlan Faleren</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.rR1ZBG7TMHdKW55r]{[56] Cottar Arlan Faleren}</td>\n</tr>\n<tr>\n<td>57</td>\n<td>Cobald Darion</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.TGslN0OnSQML0MJP]{[57] Farmer Cobald Darion}</td>\n</tr>\n<tr>\n<td>58</td>\n<td>Sobald Sermel</td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.lsZZe6z3FKWVMIiY]{[58] Teamster}</td>\n</tr>\n<tr>\n<td>59</td>\n<td> </td>\n<td>@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.oF549woK4WLTurvq]{[59] Village Graveyard}</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "0zwpn8P7pH4t46vs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.0zwpn8P7pH4t46vs"
+    },
+    {
+      "name": "[1] Royal Toll House",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Crown</p>\n<p><strong>Toll Collector:</strong> Lunda Penten</p>\n<p>Lunda lives above the storage in the bond house (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.WfeFwzzb9Yymflzr]{[7] Bond House}) but can be found here during the day. He collects taxes and tolls on the goods moving along the Silver Way. Sir Haradoc, the Bailiff of the Hundred and local tax officer, requires Lunda to present his toll book and proceeds twice a year at Hundholt.</p>",
+        "format": 1
+      },
+      "_id": "v0RSXCWfiBk3PvpE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.v0RSXCWfiBk3PvpE"
+    },
+    {
+      "name": "[2] Tentmaker",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Tent</p>\n<p><strong>Proprietor:</strong> Rolen Cybela</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Rolen weaves canvas and makes tents and pavilions. He is a cheerful man. His friends call him the Badger because of his wiry, brushy beard. When business slows down, he turns his skills to making canvas haversacks, rucksacks, and satchels to stay busy. Since he does not wish to sell these “lesser” items from his establishment, he has Aras Desa (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Mq68rHCBG9C3n0qo]{[29] Chandler}) sell them for him on consignment.</p>",
+        "format": 1
+      },
+      "_id": "H1exin8bS9XUpQbh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.H1exin8bS9XUpQbh"
+    },
+    {
+      "name": "[3] Woodcrafter",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Sawhorse</p>\n<p><strong>Proprietor:</strong> Sildan Cybela</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> Avg</p>\n<p>Sildan is Rolen’s cousin but they don’t particularly like each other. Silden is a small, meticulous woman who has been known to throw away perfectly good work that does not meet her exacting standards. She makes cabinets, furniture, and anything else that requires precise joinery.</p>",
+        "format": 1
+      },
+      "_id": "637wctYPS0ULCv2b",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.637wctYPS0ULCv2b"
+    },
+    {
+      "name": "[4] The Gatehouse Inn",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Portcullis</p>\n<p><strong>Proprietor:</strong> Olmael Sermel</p>\n<p><strong>Size:</strong> 4 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> Avg</p>\n<p>The Gatehouse Inn commands an important position in the village’s market square. Most of the local merchants and priests go there for meals and entertainment. The landlord also maintains a “Baron’s Table” even though neither the Baron nor any of his family has ever eaten in the Inn.</p>\n<p>Olmael has been so successful that his business is beyond his family’s ability to manage. He hires women and young girls from the village to work in his kitchen and as maids. During trade fairs, he tries to hire almost all of the village wives to work in the inn to cope with the rush. These jobs are eagerly sought after because, even though the wages are average, Olmael is known to feed his staff at least twice a day.</p>\n<p>Olmael’s brother Erebel is an ostler (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.q4D86XupQEE2wMr6]{[34] Ostler Erebel Sermel}) and they have an agreement to stable the animals of the inn’s guests at Erebel’s stable. The two brothers are close. Erebel’s wife and daughter are permanent staff at the inn.</p>\n<p> </p>\n<h2>Map Key</h2>\n<p>The inn consists of two main wings and a kitchen annex. Visitors enter the inn’s taproom from the square. This noisy area is crowded with tables and villagers and travelers mingle at the long bar.</p>\n<ol>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.VDjapB38RRm3u9CJ]{[G1] Taproom}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.Xp3s6Fexd3untCyQ]{[G2] Side Bar}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.fvqhFQqw9WQd8mTu]{[G3] Servants' Room}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.Mi8Wsii8ckQbalmk]{[G4] Kitchen}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.Kh3tIoYCH2C5clFU]{[G5] Brewhouse}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.Y0tStmujFHrIRLuc]{[G6] Cellar}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.XYFykN985NTjQcqc]{[G7] Olmel Family Quarters}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.JYSr8QSWzWqdo8hm]{[G8] Guest Rooms}</li>\n<li>@UUID[JournalEntry.C0d1Fb8VNoPAnTk5.JournalEntryPage.tY379NIzA5GaR4SD]{[G9] Dormitory}</li>\n</ol>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "ko2BOZpwhDjFRYOg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.ko2BOZpwhDjFRYOg"
+    },
+    {
+      "name": "[5] Miller",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Proprietor:</strong> Elas Etine</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>The Getha mill processes the grains from Getha and Hundholt. Elas is the head of the influential Etine clan and a powerful force in the Mangai. Following the strategies of his father and grandfather, Elas plots, bribes, and conspires to keep the milling concessions in the hundred firmly in the hands of his clan. All of the millers in the hundred are relatives.</p>\n<p>Elas spends the majority of his time influencing the Mangai. He has sat on the Getha Mangai’s executive council for nearly a decade. He is a scheming and grasping man, openly soliciting “gifts” in exchange for his vote in the council. To make matters worse, Elas sees no fault in this, laughing off complaints by telling the others “what is good for business is good for Getha.”</p>\n<p>In addition to his other faults, Elas is also a lecherous old goat. He arrogantly carries on affairs with village women, uncaring of what his wife (or their husbands) might think. When his amours produce an “embarrassment,” he leaves his bastard children to the Peonians to care for.</p>\n<p>His apprentice is one of his nephews from Elmeze, Corten Etine. Elas doesn’t know that Corten has been giving Arlan Faleren (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.rR1ZBG7TMHdKW55r]{[56] Cottar Arlan Faleren}) flour in exchange for her favors and would throw the boy out of the family (and the Millers’ Guild) if he ever discovered the truth.</p>",
+        "format": 1
+      },
+      "_id": "agoFPFnO2zADjdWJ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.agoFPFnO2zADjdWJ"
+    },
+    {
+      "name": "[6] Whitesmith",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Cauldron</p>\n<p><strong>Proprietor:</strong> Parlarn Shotoshi</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> Avg</p>\n<p>Parlarn specializes in making and fixing pots and pans but he also likes to tinker with locks. He is very good at casting things like buckles for the saddlers. While Parlan is well liked and a hard worker, the other villagers know that he is best avoided if he has been drinking. Parlan knows his temper is explosive and he rarely joins his fellow craftsmen at the Leaky Bucket, preferring to stay in his house after closing his shop.</p>\n<p>Shotoshi is from Melderyn. He fled Laket after he killed a nobleman who tried to take advantage of his wife. Shotoshi is very jealous of anyone who looks or speaks to his wife and he keeps her locked in the house. He accompanies her to the market for shopping, leaving his stall to his journeyman while he’s gone.</p>",
+        "format": 1
+      },
+      "_id": "vN0F77B2305NjOKh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.vN0F77B2305NjOKh"
+    },
+    {
+      "name": "[7] Bond House",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Crown</p>\n<p><strong>Proprietor: </strong>Lunda the Toll Keeper</p>\n<p>This building is where bonded items are kept until the tax (either royal or local) can be paid on it. There isn’t a lot of space here and the overflow is stored in the keep’s tax house (@UUID[JournalEntry.AGCo7Vp98DkBa13Q.JournalEntryPage.HdriMM7wERitYaZE]{[F] Tithe Barn}).</p>\n<p>Partly because his monthly salary is only 36d and partly because he’s a greedy little weasel, Lunda Penten is “as bent as a dog’s back leg” as they say. His capacity for graft is common knowledge in Getha but he always seems to keep his superiors happy enough that he doesn’t get replaced. This sallow little man can often be found drinking alone in a darkened corner of the Gatehouse Inn.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "WfeFwzzb9Yymflzr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.WfeFwzzb9Yymflzr"
+    },
+    {
+      "name": "[9] Hall of the Mangai",
+      "type": "text",
+      "text": {
+        "content": "<p>This rectangular half-timbered edifice is the meeting hall for all of the guilds. The local chapter of the Mangai meets here every quarter. During the village’s two fairs, the building becomes a commodity exchange, which is conveniently located to the litigant's offices. In addition to a large meeting room, the building has smaller private rooms and a kitchen for banquets. The ground floor also houses office space for the litigant and the scribe.</p>\n<p>The office of Chairman of Getha’s Mangai Council is hotly contested in an election every other year. While many things contribute to the politicking, the only thing that the majority of the guildsmen in Getha agree on is that Elas the Miller should never hold the post. The current Chairman is the carpenter, Regan Astal (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Wraw2Kd9DfUACPRI]{[12] Carpenter Regan Astal}). He has proved to be independent of any of the family power blocs that jostle for power in the little hundred.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "9Y6t4OynEYewBZxI",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.9Y6t4OynEYewBZxI"
+    },
+    {
+      "name": "[10] Perfumer",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Proprietor: </strong>Garal Kramel</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★ | <strong>Prices:</strong> Avg</p>\n<p>Originally from Tashal, Garal specializes in soaps and lotions. She is a beautiful woman and makes herself very available to the wealthier townsmen. She is also a spy for the bandits of the Kirsta Forest. She uses her herb gathering forays to scout in the woods and leave messages for her compatriots.</p>",
+        "format": 1
+      },
+      "_id": "dlj9hqxT3PuEyKvd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.dlj9hqxT3PuEyKvd"
+    },
+    {
+      "name": "[11] Potter",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Jug</p>\n<p><strong>Proprietor:</strong> Marala of Darion</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Marala is the village’s artist. A tall, fat, woman, she is often covered in clay smudges or wood soot from her kiln. Her husband, Iomar, is Bainin Darion’s brother (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.FZsqX6i4fbGjxLnN]{[26] Clothier}) and will probably inherit the family’s lands. Iomar helps his father while his wife creates and sells her pots.</p>",
+        "format": 1
+      },
+      "_id": "sffnzGoBHuR1cZsZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.sffnzGoBHuR1cZsZ"
+    },
+    {
+      "name": "[12] Carpenter Regan Astal",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Saw</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Regan is a house builder. He and Tarabrakan the Mason (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.XTGDRdFXXO09HKHC]{[16] Mason}) are friends He is a distant cousin of the “hideworking” Astals and is on friendly but not close terms with them.</p>",
+        "format": 1
+      },
+      "_id": "Wraw2Kd9DfUACPRI",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.Wraw2Kd9DfUACPRI"
+    },
+    {
+      "name": "[13] Fish Pond",
+      "type": "text",
+      "text": {
+        "content": "<p>This is a deep pond, originally dug to provide dirt for the keep’s artificial base. A constable had the idea of redirecting the run to fill it and then had it stocked it with fish. This practice continues to the present.</p>",
+        "format": 1
+      },
+      "_id": "TKgZZ2snrs5o9UEc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.TKgZZ2snrs5o9UEc"
+    },
+    {
+      "name": "[14] Farmer Worisi Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 40 Free</p>\n<p>Worisi Urdel is a retired man at arms. He suffers from the effects of a spear thrust received in a gargûn raid and drinks to dull the pain. The Baron granted him a freehold upon his retirement and Worisi quickly married a young bride. He recruits young men for the Keep’s Guard. He and his brother Geary (@UUID[JournalEntry.0HTRKHkZ9SjA5uqT.JournalEntryPage.3AFxi1zPbstjQDMw]{[K04] Keep Barracks}) are often seen conversing over their mugs at the Leaky Bucket.</p>",
+        "format": 1
+      },
+      "_id": "oMdAauuI8i6bmqIU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.oMdAauuI8i6bmqIU"
+    },
+    {
+      "name": "[15] Farmer Medil Jontroben",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 40 Free</p>\n<p>Medil is a tall, handsome man who prides himself on his farm, his family, and his skill at arms. He is the best bowman in the village and loves to compete in archery contests. Medil’s family originated in Orbaal many years ago and his children are easily recognizable by their blonde hair and gray eyes in the village full of brown hair and eyes.</p>",
+        "format": 1
+      },
+      "_id": "fPyUHraTxGBmO2Ag",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.fPyUHraTxGBmO2Ag"
+    },
+    {
+      "name": "[16] Mason",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> House</p>\n<p><strong>Proprietor:</strong> Tarabrakan Haral</p>\n<p><strong>Size:</strong> 5 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Tarabrakan is a short, wide, hairy man; his shoulders are as solid as the stones he shapes for the houses he builds. Most of his time is spent building chimneys for the houses in the village, although he travels to the other manors in the hundred for projects as well. He is well liked by the other townsfolk, as he is quick to laugh or tell a joke.</p>\n<p>As a mason he supervises large construction projects, especially those that require stone as a building material. Since few stone buildings are built every year, most of Tarabraken’s time is spent maintaining the keep and the manor houses in the hundred. His work often keeps him away from home.</p>\n<p>Tarabraken would like to build a new stone tower at Elmeze for Sir Talnin Dolastar, as he knows that the Dolastars would like to expand the small stone manor house they currently live in. Should the price be attractive enough, Sir Talnin would sign a contract that would occupy a great deal of Tarabraken’s time and bring him a lot of cash.</p>\n<p>He is negotiating with the priestesses of the Halean temple (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.2lYliFKVPvaznDJ6]{[8] Temple of Halea}) for funding to buy the materials. Although he attends temple services when he can, Tarabrakan knows that the priestesses of the Golden One never do favors for free. He is only hoping that he will be able to meet the Aramia’s price when she comes asking for him to return her favor.</p>\n<p>The only person in Getha that Tarabrakan avoids is his sister Ongor (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.fAX4U9zFXOI4D0m7]{[25] Scribe}). They have been at odds since their father died three years ago. Tarabrakan, as the eldest, followed his father’s wishes. He made the fairest division of the legacy that he could but his sister demanded more. They haven’t spoken in months, a mean feat in a village of less than 250 souls.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "XTGDRdFXXO09HKHC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.XTGDRdFXXO09HKHC"
+    },
+    {
+      "name": "[17] Farmer Lanasai Asaka",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 40 Free</p>\n<p>Lanasai is a small, burly man. Although he is fair with the serfs he hires, few enjoy working for him. He always sees “the cup half empty” and rarely has a kind word for others. His wife is the only one that can lift his gloomy spirits. Lanasai dotes on their three young children.</p>",
+        "format": 1
+      },
+      "_id": "81BQDj2lD3arOKdU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.81BQDj2lD3arOKdU"
+    },
+    {
+      "name": "[18] Temple of Peoni",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>High Preist:</strong> Pelnala Lubris the Fat</p>\n<p>The Peonian temple is a small and humble edifice but is the center of the Gentle Lady’s worship in the hundred. This temple is supported by a glebe (west of town on the Sezaze road) and houses several orphans in addition to temple personnel.</p>\n<ol>\n<li>Lubris the Fat is the Pelnala (High Priest). He is having a mid-life crisis and spends most of his time wandering around the hundred searching for some inner truth.</li>\n<li>The Solana (Master of Acolytes) cares for the acolytes and the orphans. Teryn is a bastard Etine who struggles mightily with the demons in his head that tell him to kill the Master Miller.</li>\n<li>The Avasana (Mistress of Archives) is the senior priestess and runs the temple when the Pelnala is otherwise occupied. As Lubris has been “looking within himself for answers,” Mother Forena has accepted the burden of administering the temple and, as an extension, the Church within the hundred.</li>\n<li>Mother Linetë, the Lerovana (Mistress of Healing), has an agreement with the physician to take only those cases that cannot afford to pay the physician’s fees.</li>\n<li>There are four Esolani (acolytes), two boys and two girls. In addition to their work in the temple and at the glebe, they are charged with keeping the fountain in the White Lady’s Square clean. An acolyte can be seen every morning cleaning the fountain’s stone walls with a bucket and a brush.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "EGHaZJHEsMgw4VGw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.EGHaZJHEsMgw4VGw"
+    },
+    {
+      "name": "[19] Mercantyler Tonatar Krabel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Red Rooster</p>\n<p><strong>Size:</strong> 4 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Tonatar has an irrepressible sense of humor and will only get cross if someone does not see the point of his jokes. He can be found at the Gatehouse Inn telling stories about his trips to Azadmere and Thay. He is very interested in news from far off lands and will often buy drinks for foreigners to hear the gossip from places he used to visit.</p>\n<p>Tonatar Krabel has been a mercantyler in the hundred since inheriting the franchise from his father over 40 years ago. He worked the trade caravans and mule trains that traveled the Silver Way from Pedwar to Tashal for almost 24 years. Now over 70 years old, he is finally starting to slow down as his aches and pains remind him of the miles he has walked and the many nights spent in the open.</p>\n<p>Tonatar’s salty good humor belies a ruthless, intelligent, and dynamic businessman. He is the last caravan master in Getha. His influence over the awarding of franchises within in the Hundred is substantial, even though he isn’t the guildmaster. Between his ties to Khuzan traders and a network of friends throughout the east, he hears about every caravan and mule train that moves through Nephshire. He wouldn’t mind seeing the barge landings at Naniom Bridge go away but he has chosen to strengthen his contracts with Azadmere rather than cry about what he cannot change.</p>\n<p>Tonatar’s business requires mercenaries and Tonatar is the hundred’s only source of caravan guards. This is not to say that the various lords don’t hire sell-swords in Gardiren and Kiban, but his services are close at hand and he is reputed to guarantee the quality of his men. Just as he ruthlessly discourages “foreign” traders from operating inside the hundred without engaging his services, mercenaries that are hired without his involvement often encounter difficulties in finding supplies, encounter harassment in civil establishments, or perhaps even meet an occasional ambush along the hundred’s quiet lanes.</p>\n<p>Tonatar specializes in supplying light foot (bow and spear) and light cavalry (who are trained to act as scouts). He maintains a squadron of scouts (10 men) and a full company (20 men) of light foot at his farm in the hills east of Getha.</p>",
+        "format": 1
+      },
+      "_id": "BUA6dhDqP01avphn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.BUA6dhDqP01avphn"
+    },
+    {
+      "name": "[20] Hospital",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Hospitaller:</strong> Ebasethe Erconral the Tall</p>\n<p>The hospital was once the mansion of a wealthy trader and its solid façade dominates the small square. Called White Lady’s Square, this cobbled square is reserved for functions of the Peonian church and is never used for market days. On high festival days the Pelnala leads services in the square, rather than pack the village’s faithful into his small temple.</p>\n<p>The hospital serves as a rest house for those that grow weary or ill while traveling the Silver Way. Eight of the hospital’s 14 long term patients are men and women whose frail health does not permit them to continue their journeys. The other six patients are sequestered in a separate ward at the rear of the building. These unfortunates suffer from the bloody flux (dysentery), a common ailment among some of the poorer classes. The patients are treated with a regimen of bleeding and simple diets. Those that can perambulate are expected to contribute to the upkeep of the hospital.</p>\n<p>The Hospitaller uses the few acolytes and healers he has to maintain the aging building and care for the few patients. Because he is not a healer by training, Erconral acts as prior and cellarer, jobs that he feels are beneath him. His haughtiness brings him frequent rebukes from the Lerovana, Mother Linetë (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.EGHaZJHEsMgw4VGw]{[18] Temple of Peoni}).</p>",
+        "format": 1
+      },
+      "_id": "N2kvt0tKseLV825y",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.N2kvt0tKseLV825y"
+    },
+    {
+      "name": "[21] Physician",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Lancelet</p>\n<p><strong>Proprietor: </strong>Jisen Dethale</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> High</p>\n<p>The Dethale family is very important in Shiran. Jisen left that city when he was young to see the world. He came to Kaldor with a Salt Route caravan and decided that he would see Azadmere as well. His caravan took him through Getha and he liked the town. Jisen bought the franchise from the aging physician and has stayed ever since. Unmarried and very handsome, he is a devout Halean.</p>",
+        "format": 1
+      },
+      "_id": "OKcUsAAjYU8vYhpk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.OKcUsAAjYU8vYhpk"
+    },
+    {
+      "name": "[22] Apothecary",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Mortar and Pestle</p>\n<p><strong>Proprietor:</strong> Cherin Ailt</p>\n<p><strong>Size:</strong> 4 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> Avg</p>\n<p>Cherin is known for wandering the woods in search of plants and herbs for his potions. As a result, he knows the woods and hills around Getha and Sezaze better than anyone else. He is very intelligent and likes to pass his evenings debating the properties of healing potions with the physician. He has been pursuing the moneylender’s daughter; a match that the village gossips are sure will produce a horde of beautiful geniuses.</p>\n<p>The apothecary’s business is booming. The climate and terrain in Fethael Hundred lends itself to the growth of many types of medicinal herbs. Cherin specializes in making medicines. He exports his tonics and plasters throughout eastern Kaldor. Healers and soldiers traveling the Silver Way seek his Violet Plaster, a secret concoction of periwinkle and other herbs, for cleaning and bandaging wounds.</p>\n<p>Cherin’s prize possession is a small plot of mandrake that he cultivates on his land to the east of Getha Run. Originally from Shorkyne, this plant is made into a powerful purgative and emetic. He received a few live plants through a merchant that came from Lorkin.</p>",
+        "format": 1
+      },
+      "_id": "QpgFWhsbp1RGsJ53",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.QpgFWhsbp1RGsJ53"
+    },
+    {
+      "name": "[23] Moneylender",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Three Gold Balls</p>\n<p><strong>Proprietor:</strong> Urin Tynar</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> High</p>\n<p>The Tynar family is originally from Habe but has settled in Nephshire. They act as agents for their cousins in Habe, writing letters of credit that are honored in any trading city in the region.</p>\n<p>Urin uses coded messages and carrier pigeons to communicate with his cousins in Azadmere and Tashal. Urin employs two mercenaries to guard his house. He meets customers in the front room where they are served refreshments. His son and daughter work in the back room, keeping the business’ records.</p>",
+        "format": 1
+      },
+      "_id": "oSxO1cfnuXN0DMnO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.oSxO1cfnuXN0DMnO"
+    },
+    {
+      "name": "[24] Litigant",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Proprietor: </strong>Shalas Quiribor</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> High</p>\n<p>Shalas keeps his offices in the Hall of the Mangai. His brother is the top commercial contracts lawyer in Tashal. Shalas left the big city 15 years ago and came to Getha to escape his brother’s shadow. Like his brother, Shalas has flourished in the world of commercial contracts and litigation. While he says that he disdains Getha’s provincial nature, he has stayed because, as he puts it, in Getha he is a “swan amongst barnyard fowl.”</p>\n<p>He owns several buildings in the town and is an unscrupulous landlord. Many of the serfs and a few of the smaller merchants are his tenants. They fear him, as he has a reputation for adhering to the strict letter of the contract--a document that always favors him.</p>\n<p>When Ongor Haral (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.fAX4U9zFXOI4D0m7]{[25] Scribe}) fell behind in her rent, Shalas coerced her into becoming his doxy in lieu of being evicted. He arrogantly feels that his ability to manipulate the legal process puts him above the other villagers.</p>",
+        "format": 1
+      },
+      "_id": "Zhw8C3GuF1HRmOWD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.Zhw8C3GuF1HRmOWD"
+    },
+    {
+      "name": "[25] Scribe",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Proprietor:</strong> Ongor Haral</p>\n<p><strong>Size:</strong> 1 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Low</p>\n<p>Ongor has offices in the Hall of the Mangai. She works closely with the litigant but hates the very sight of him. Ongor has been feuding with her brother, Tarabrakan (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.XTGDRdFXXO09HKHC]{[16] Mason}) over the division of their father’s legacy. She blames her brother’s greed for forcing her to work as a scribe, a situation that directly led to her being coerced into an affair with Shalas Quiribor (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Zhw8C3GuF1HRmOWD]{[24] Litigant}). Her husband helps in Cherin Ailt’s store (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.QpgFWhsbp1RGsJ53]{[22] Apothecary}) to earn money.</p>",
+        "format": 1
+      },
+      "_id": "fAX4U9zFXOI4D0m7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.fAX4U9zFXOI4D0m7"
+    },
+    {
+      "name": "[26] Clothier",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Shirt</p>\n<p><strong>Proprietor:</strong> Bainin Darion</p>\n<p><strong>Size:</strong> 5 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Bainin is the village’s tailor. He is very good at his craft and has made himself wealthy controlling the trade of linen in the hundred. He buys thread and lots of coarse fabric from the manors and farmwives throughout the area. The cloth is used to make clothes for the gentle folk of the hundred.</p>\n<p>His wife, Forena, takes the best thread and makes it into fine linen with the help of six weavers. Using large vertical looms, the weavers toil from dawn until dusk. Their work is harsh and more than one has lost a fingertip to the sharp thread or the heavy boom of a loom. The weavers are in constant fear of Mistress Darion. They say that she is everywhere at once; constantly correcting minor faults and sometimes striking workers that dirty a cloth or fail to ensure that the weave is tight. Since she only pays for pieces that meet her exacting standards, she always gets her way. Once completed, the undyed linen is sold to a clothier in Kiban for dying.</p>\n<p>Bainin has asked the Halean Temple to help him start his own dying shop in Drilen with his cousin. He is his father’s (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.TGslN0OnSQML0MJP]{[57] Farmer Cobald Darion}) favorite child but has no interest in taking over the family’s lands when his parents die. His son ran away to Tashal last year, seeking to make his name as a writer.</p>",
+        "format": 1
+      },
+      "_id": "FZsqX6i4fbGjxLnN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.FZsqX6i4fbGjxLnN"
+    },
+    {
+      "name": "[27] Mercantyler Varybis Haral",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>The hundred’s traveling peddler (q.v., Fethael Hundred Gazetteer), Varybis lives here with his brother and sister in law. His animals and cart are kept at Erebel Sermel’s stables (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.q4D86XupQEE2wMr6]{[34] Ostler Erebel Sermel}) but his house is piled full of goods that people have ordered and are waiting to be delivered. In addition to buying things in Uldien, Varybis works with Aras Desa (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Mq68rHCBG9C3n0qo]{[29] Chandler}) to order items through the Chandler’s store.</p>\n<p>Varybis the Peddler is considering how best to expand his business. He knows that Sir Tommas Kobarney would like to ship goods to and from Hyzevel. Varybis would like to purchase the franchise in Hyzevel for his brother. What worries Varybis is that he will have to get Tonatar Krabel’s cooperation to establish the new franchise and this support will not come cheaply.</p>",
+        "format": 1
+      },
+      "_id": "EyPpa7vg1UmII8nd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.EyPpa7vg1UmII8nd"
+    },
+    {
+      "name": "[28] Ostler Dargir Yaleh",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Saddle</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> High</p>\n<p>Dargir makes saddles for horses and mules. He is skilled in working with wood and leather and is proud that his saddles last for decades before needing to be refurbished. If someone brings him one of his old saddles, he will rebuild it for no cost.</p>",
+        "format": 1
+      },
+      "_id": "OimSYYI8rDMaWuUp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.OimSYYI8rDMaWuUp"
+    },
+    {
+      "name": "[29] Chandler",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Basket</p>\n<p><strong>Proprietor:</strong> Aras Desa</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★ | <strong>Prices:</strong> Avg</p>\n<p>Aras makes candles but sells almost anything from his shop, making his place the village’s general store. He buys items from other craftsmen in Getha and from as far away as Uldien. He sells them after marking up the price to cover his costs.</p>",
+        "format": 1
+      },
+      "_id": "Mq68rHCBG9C3n0qo",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.Mq68rHCBG9C3n0qo"
+    },
+    {
+      "name": "[30] Carpenter Turin Cybela",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Barrel</p>\n<p><strong>Size:</strong> 5 | <strong>Quality:</strong> ★★ | <strong>Prices:</strong> Avg</p>\n<p>Turin is the only cooper in the hundred. His work is good but he rushes things and sometimes the uncured wood gapes or splits. He is Sildan’s (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.637wctYPS0ULCv2b]{[3] Woodcrafter}) younger brother. His biggest customers are the salters (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.txGXxaOInX790toQ]{[32] Salter}), who use his barrels for the brine they use to preserve food.</p>\n<p>Turin employs one journeyman to work on carts and wagons for travelers and merchants. Turin does not make many wagons but does earn a tidy sum replacing broken wheels and repairing cracked axles.</p>",
+        "format": 1
+      },
+      "_id": "lGrdWUA5CWo5XQHE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.lGrdWUA5CWo5XQHE"
+    },
+    {
+      "name": "[31] Hideworker",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Hide</p>\n<p><strong>Proprietor:</strong> Crok Astal</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>His family runs a tannery in Ominstru, their home village, and Crok runs his shop and a small factory from this site in Getha with the help of his wife and an apprentice. Crok’s shop represents the public side of the family’s business, a place where furs and hides are bought and sold. Each spring, he sends a journeyman to barter for furs with the Taelda tribesmen and does a brisk trade with other manors throughout the year. He is adroit at finding a market for almost any kind of fur and has worked hard to popularize wolfskin cloaks among the huntsmen of the shire.</p>\n<p>Wolf fur represents an economic boon for a furrier. Because of the number of these predators in the forests, the Baron pays a 5d bounty for each full-grown wolf’s skull (2d for pup’s). Crok then purchases the pelt for 3d (1d for a pup’s pelt). He uses 3 – 6 pelts to make a cloak, which he sells for 30 – 60d.</p>",
+        "format": 1
+      },
+      "_id": "BjmOtAEZn3yUDnOG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.BjmOtAEZn3yUDnOG"
+    },
+    {
+      "name": "[32] Salter",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Proprietor:</strong> Sedlin Andin</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Sedlin sells salt and preserved food to the locals and passing merchants. His clan owns the concession on the salt spring in Sezaze and controls the production and importation of salt in the hundred.</p>\n<p>Sedlin has a large and growing family. Even though his eldest daughter is about to marry one of the Etines (the miller’s son in Hyzevel), his wife is already pregnant with his next child.</p>",
+        "format": 1
+      },
+      "_id": "txGXxaOInX790toQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.txGXxaOInX790toQ"
+    },
+    {
+      "name": "[33] Metalsmith",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Hammer</p>\n<p><strong>Proprietor:</strong> Raena Berma</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Low</p>\n<p>Raena is the brother of Sersyl Berma, owner of the Leaky Bucket Inn (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.5mGhgPAr0boqgPNB]{[35] The Leaky Bucket}). He specializes in working with animals and making farm implements. He sells items through Varybis.</p>\n<p>Although Raena is the tallest and strongest man in the village., his secret shame is that he knows that his son is not his. He suspects that Elas Etine (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.agoFPFnO2zADjdWJ]{[5] Miller}) may have raped his wife but, since she won’t talk about the matter, he has not pursued it. He loves his son unconditionally and is hoping to apprentice the boy to his cousin in Denwald next year.</p>",
+        "format": 1
+      },
+      "_id": "uQ4fXxCthQp8VBMj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.uQ4fXxCthQp8VBMj"
+    },
+    {
+      "name": "[34] Ostler Erebel Sermel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Horseshoe</p>\n<p><strong>Size:</strong> 4 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Erebel is the village ostler and maintains the largest stable in the hundred. His stable specializes in raising and training palfreys. He breeds the Dobraine Forest and Kanir Mountain varieties of the shire’s Kirsta Forest Horse at his stud farm west of Blixth [qv]. When the foals are a year old and are ready to be separated from their mares, he brings them to Getha for the Spring Fair. Trained colts and fillies are sold at the Grain Fair in Azura and are much more expensive than the foals. He only sells the mares and geldings. A few stallions are kept for breeding. He is forbidden from training any of these beasts to become warhorses.</p>\n<p>Erebel has agreement with his brother Olmael, who owns @UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.ko2BOZpwhDjFRYOg]{[4] The Gatehouse Inn}, to care for guests’ animals for a reduced rate. The two brothers are close and Erebel’s wife and eldest daughter work in the inn with their cousins.</p>",
+        "format": 1
+      },
+      "_id": "q4D86XupQEE2wMr6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.q4D86XupQEE2wMr6"
+    },
+    {
+      "name": "[35] The Leaky Bucket",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> An Old Bucket</p>\n<p><strong>Proprietor:</strong> Sersyl Berma</p>\n<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>The Leaky Bucket Inn caters to the farmers and craftsmen in town. The landlady, Sersyl, is the sister of the smith (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.uQ4fXxCthQp8VBMj]{[33] Metalsmith}). She is a tall, skinny, plain woman but is pleasant and her beers are well liked.</p>\n<p>While Sersyl doesn’t necessarily hold with her family’s grudge against the Haral clan, it worries her that Tatril is smitten with Runae Haral, the mason’s son. She’s asked her cousin Ledis One Eye, landlord of the inn in Hyzevel, to find a suitable match for Tatril outside of Getha and away from the Haral boy.</p>\n<h2>Map Key</h2>\n<ul>\n<li>@UUID[JournalEntry.zR4hVBMFE8IPf2gY.JournalEntryPage.uvUkmwbp1cH78wxH]{[L1] Taproom}</li>\n<li>@UUID[JournalEntry.zR4hVBMFE8IPf2gY.JournalEntryPage.hR7YoantT3IHcF0B]{[L2] Kitchen}</li>\n<li>@UUID[JournalEntry.zR4hVBMFE8IPf2gY.JournalEntryPage.5M5hNSBHlZ1JhsUt]{[L3] Dormitory}</li>\n<li>@UUID[JournalEntry.zR4hVBMFE8IPf2gY.JournalEntryPage.kPHhMv6dj73ndbZF]{[L4] Master's Rooms}</li>\n<li>@UUID[JournalEntry.zR4hVBMFE8IPf2gY.JournalEntryPage.HSE4schUhXfaV0os]{[L5] Family Quarters}</li>\n<li>@UUID[JournalEntry.zR4hVBMFE8IPf2gY.JournalEntryPage.5mWQkMGsB5rvad7G]{[L6] Cellar}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "5mGhgPAr0boqgPNB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.5mGhgPAr0boqgPNB"
+    },
+    {
+      "name": "[36] Goose Green",
+      "type": "text",
+      "text": {
+        "content": "<p>This open area is used as local pasturage for the village geese and goats. Animals from mule trains and caravans are forbidden from grazing here. The trees along the southern part of the green are frequently the meeting places for young lovers.</p>",
+        "format": 1
+      },
+      "_id": "SWZfTxDbIgN9C8F0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.SWZfTxDbIgN9C8F0"
+    },
+    {
+      "name": "[37] Half-Villein Maranis Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 23</p>\n<p>Maranis keeps the village bees for the Constable. She is a tall and gangly widow whose grown son ably manages the family’s lands. She acknowledges that Arlan Faleren is a distant cousin but will not speak to the woman and considers the short, curvy redhead to be a slut.</p>",
+        "format": 1
+      },
+      "_id": "gOj8RetruVShMcSb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.gOj8RetruVShMcSb"
+    },
+    {
+      "name": "[38] Half-Villein Pulinia Tyun",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 13</p>\n<p>Pulinia married against her clan head’s wishes and has suffered his wrath ever since. Her husband died while working in the forest two years ago and, as a result, she struggles to feed her family on her scant acreage. She and her sons labor doggedly on hired lands to put food on the table but it is rarely enough. Pulinia knows that she will have to swallow her pride to get Tazar (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.u058yeDU2VYIm3x9]{[42] Reeve}), the village reeve, to support her when she asks the Constable for more land.</p>",
+        "format": 1
+      },
+      "_id": "9TnP4E3cEQbbQEop",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.9TnP4E3cEQbbQEop"
+    },
+    {
+      "name": "[39] Cottar Rerbel Tyun",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 10</p>\n<p>Rerbel keeps the manor’s fish pond, paying the Constable one fish in three for the privilege. Rerbel is very popular in the village and is known to help anyone who asks. He often spends his evenings helping to maintain the Peonian temple.</p>",
+        "format": 1
+      },
+      "_id": "mkv3UMMsZ8iKjOja",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.mkv3UMMsZ8iKjOja"
+    },
+    {
+      "name": "[40] Villein Krovin Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 35</p>\n<p>Krovin is a successful farmer and an unhappy man. His lands are fertile and he is pleasant enough after he has had a pint or two at the Leaky Bucket but the women in his life are ruining him.</p>\n<p>First, his wife has recently had a child that Krovin thinks was fathered by the miller (true). Then his eldest daughter Ranas became pregnant by a muleteer that came through the village last spring and was thrown out of the house after he paid the leirwite. The reeve took pity on the big boned, plain looking girl and found her employment as a maid in the keep.</p>\n<p>Finally he is afraid that the rumors he hears about his second daughter Jinele might be true. The girl is sixteen and is a popular server at the Gatehouse Inn. When she couldn’t explain how she came to own a fine bracelet, Krovin beat the girl with a switch until she confessed that the salter’s apprentice, young Melshin Andin, had given it to her. Even though he whipped her until she could barely walk, she refused to say why the young man had given her such a dear gift. Krovin has enough land to give her a dowry and is considering approaching Usaran Churil (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.GPgiHZW73o1b8dVO]{[43] Woodward}) to marry Jinele off before she embarrasses the family like her sister.</p>",
+        "format": 1
+      },
+      "_id": "geOrsWoCPZ0ZnM5C",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.geOrsWoCPZ0ZnM5C"
+    },
+    {
+      "name": "[41] Orchard",
+      "type": "text",
+      "text": {
+        "content": "<p>Zarel Faleren (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.7Qz3FyveCo33TVyM]{[52] Cottar Zarel Faleren}) tends the manor’s orchard, growing apples (green and red) and dark purple plums. The fruit is used to make ciders and cysers for the keep. The orchard’s beehives are in the northwestern corner, away from the road.</p>",
+        "format": 1
+      },
+      "_id": "hshmnqV37xACsO8r",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.hshmnqV37xACsO8r"
+    },
+    {
+      "name": "[42] Reeve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 36</p>\n<p>The local reeve, Tazar Tyun is also the head of the extensive Tyun clan. His clan has held the position of reeve for several generations and he boasts of his annual dinners at the Constable’s table. His greatest weakness is his pride and, if he feels that he has been crossed or disrespected, he carries a grudge.</p>",
+        "format": 1
+      },
+      "_id": "u058yeDU2VYIm3x9",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.u058yeDU2VYIm3x9"
+    },
+    {
+      "name": "[43] Woodward",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 12</p>\n<p>Since the death of her husband in the gargûn swarm of 718, Usaran Churil has been the head of the large and boisterous Churil clan. She acts like a mother to all of the Churils, even if she is really only their aunt or distant cousin.</p>\n<p>Her husband had been the manor’s woodward and it was in the performance of his duties that he discovered a war party of gargûn. He managed to raise the alarm and save the village before he was killed. In gratitude the Constable allowed her son Adil to take the position.</p>\n<p>Her other grown son, Undin, farms the family’s land but is restless. Usaran is afraid that he may run away to find adventure rather than remain home. She is trying to find a good match for Undin and would like to announce his engagement this summer if she could find a welldowered girl.</p>",
+        "format": 1
+      },
+      "_id": "GPgiHZW73o1b8dVO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.GPgiHZW73o1b8dVO"
+    },
+    {
+      "name": "[44] Half-Villein Merdin Churil",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 19</p>\n<p>Merdin is Usaran’s brother. He struggles to feed his large family and is looking forward to seeing his eldest son and daughter married off and out of the house. If he cannot find matches for his children by mid-summer, Merdin will ask the Constable for more land and has paved the way for the approval of this request with a generous gift to the reeve.</p>",
+        "format": 1
+      },
+      "_id": "tt3TtmagHwZhINq6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.tt3TtmagHwZhINq6"
+    },
+    {
+      "name": "[45] Villein Soris Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 47</p>\n<p>Soris is the cousin of the reeve of Lethyl. His father arrived in Getha as a young man and took over some land that had gone vacant. Although Soris grew up in Getha, he is still called a “foreigner” and even he thinks of Lethyl as his ancestral home. He feels ostracized by the other villagers and is a quiet, depressed man. His house is used by other Kleves when they come to Getha for the Peonian high festivals.</p>",
+        "format": 1
+      },
+      "_id": "rSssaWJ72CY2Ijf1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.rSssaWJ72CY2Ijf1"
+    },
+    {
+      "name": "[46] Half-Villein Therin Oralis",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 19</p>\n<p>Therin is Ildon’s brother. Both are happy and open handed people but they are lazy. Therin often works for Cobald Darion, who can often be heard to say that someone “works like an Oralis,” meaning that they are lazy and shiftless. Both brothers regularly attend Peonian services, even though neither is especially devout. They do admit to liking the music.</p>",
+        "format": 1
+      },
+      "_id": "xEF7qgXBmvxyQplX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.xEF7qgXBmvxyQplX"
+    },
+    {
+      "name": "[47] Half-Villein Ildon Oralis - Herder",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 16</p>\n<p>Ildon is the village herder and is usually found with the pigs as they forage in the woods. He has been fined twice for letting his charges disturb the Baron’s hunting ground. If he is negligent one more time, the Beadle has promised him a flogging.</p>",
+        "format": 1
+      },
+      "_id": "AOz2cLSOq0wOeRe6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.AOz2cLSOq0wOeRe6"
+    },
+    {
+      "name": "[48] Half-Villein Labra Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 19</p>\n<p>Labra is the Beadle’s cousin, a fact that he doesn’t celebrate. Labra feels that his cousin is too enthusiastic in his duties and fears that one day they might meet on opposite sides of the law. Labra has improved his family’s meals by stealing from other villagers and poaching. He operates the local smoke house for Sedlin Andin and hides his illegal catch among the salter’s goods.</p>",
+        "format": 1
+      },
+      "_id": "le6XKVdKupVRaawA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.le6XKVdKupVRaawA"
+    },
+    {
+      "name": "[49] Villein Charael Churil",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 35</p>\n<p>Charael is a bitter, unpopular man with his wife and the rest of his clan. He was Usaran Churil’s uncle (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.GPgiHZW73o1b8dVO]{[43] Woodward}) and has never been happy at being passed over for clan head. He expected to be given the position when his nephew died but when Usaran proved to be more capable and popular, he was refused again. As a result he has made himself unpleasant at several family gatherings and is no longer welcome in Usaran’s house.</p>",
+        "format": 1
+      },
+      "_id": "DDcswiTqlslX4rUX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.DDcswiTqlslX4rUX"
+    },
+    {
+      "name": "[50] Charcoaler",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Proprietor:</strong> Brendin Asaka</p>\n<p><strong>Size:</strong> 4 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Several hundred paces west of the main village, Master Brendin keeps his charcoal smoldering. His franchise is large and he manages to export some of his charcoal to smiths in the eastern parts of Neph and Balim shires.</p>",
+        "format": 1
+      },
+      "_id": "tLN5AxQA1aoZPxUU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.tLN5AxQA1aoZPxUU"
+    },
+    {
+      "name": "[51] Beadle",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 21</p>\n<p>A slender, red haired man, Barin \"the Red\" Nelt is as persistent as a terrier in his duties. As a result he is the most hated man in the village. He claims that he doesn’t understand the animosity the others show to him but, if he had to really think about it, he enjoys exposing the faults and failings of others. The Churil brothers are his most vehement enemies.</p>",
+        "format": 1
+      },
+      "_id": "YcxWlwfrPtjf2es2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.YcxWlwfrPtjf2es2"
+    },
+    {
+      "name": "[52] Cottar Zarel Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 22</p>\n<p>Zarel is the orcharder for the village. His wife is very talented at brewing and cider making. After paying his fees to the Constable, Zarel makes a bit of money selling his brews to the local inns.</p>\n<p>His daughter Liranal is a maid in the keep, a fact that makes the old man prouder than any compliment to his cider. The family is devoted servants of the Indama clan and Zarel will seek positions at the keep or one of the other Indama holdings for his daughter Thilia and his son Garath when they come of age.</p>",
+        "format": 1
+      },
+      "_id": "7Qz3FyveCo33TVyM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.7Qz3FyveCo33TVyM"
+    },
+    {
+      "name": "[53] Half-Villein Thirlan Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 19</p>\n<p>Thirlan is Hoalda’s (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.3YUuyvHCLAUF5fo8]{[54] Half-Villein Hoalda Faleren}) twin and constant companion. No one in the village can tell the two of them apart and they like to play practical jokes on people by imitating each other. Thirlan and Hoalda are Zarel’s nephews and help with the orchard harvest in the fall.</p>",
+        "format": 1
+      },
+      "_id": "SgHIbmRuM6FrWrtE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.SgHIbmRuM6FrWrtE"
+    },
+    {
+      "name": "[54] Half-Villein Hoalda Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 19</p>\n<p>Thirlan’s (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.SgHIbmRuM6FrWrtE]{[53] Half-Villein Thirlan Faleren}) identical twin helps his brother work their conjoined acres. Hoalda’s wife, a skilled alewife, helps Zarel with his brewing.</p>",
+        "format": 1
+      },
+      "_id": "3YUuyvHCLAUF5fo8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.3YUuyvHCLAUF5fo8"
+    },
+    {
+      "name": "[55] Thatcher",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Proprietor:</strong> Arlaren Astal</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Avg</p>\n<p>Arlaren has the monopoly on all of the rushes from the fishpond and along the river. He pays the Constable four shillings a year for this privilege. His thatching business is so good that he’s been able to hire Pulinia Tyun to farm his land for him.</p>",
+        "format": 1
+      },
+      "_id": "RRE9lHSlZnaqZ4OY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.RRE9lHSlZnaqZ4OY"
+    },
+    {
+      "name": "[56] Cottar Arlan Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 13</p>\n<p>A Faleren by marriage, Arlan has been a widow for the past two years. The village gossips say that she worked her husband to death. Given Arlan’s lewd sense of humor and six children, this rumor might not be too far from the truth. She doesn’t really get along with her husband’s family but has no interest in returning to Ominstru, where she was born an Arsarl. Arlan is a very distant cousin of Maranis (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.gOj8RetruVShMcSb]{[37] Half-Villein Maranis Arsarl}) but thinks the gangly woman is a prude and the two do not speak to each other when they meet at the well.</p>\n<p>Arlan has two grown sons that work her family’s lands and is planning to ask the clan head, Thadotes Faleren of Emerule, to make a match for her eldest daughter. In the meantime, Arlan has been conducting an affair with Elas Etine’s apprentice in exchange for a little extra in her flour measure.</p>",
+        "format": 1
+      },
+      "_id": "rR1ZBG7TMHdKW55r",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.rR1ZBG7TMHdKW55r"
+    },
+    {
+      "name": "[57] Farmer Cobald Darion",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres:</strong> 10</p>\n<p>Cobald is the head of the Darion clan and a successful farmer. His three grown sons, Iomar (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.sffnzGoBHuR1cZsZ]{[11] Potter}), Bainin (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.FZsqX6i4fbGjxLnN]{[26] Clothier}) and Stanil (@UUID[JournalEntry.AGCo7Vp98DkBa13Q.JournalEntryPage.CNtpwVFfqb1TDyxs]{[D] Stables}), are all successful craftsmen in their own rights. Rather than work in a single craft, the Darion clan is represented in almost all of the guilds. Cobald was the only son in a family with seven daughters, so he is related to many of the other free families in the hundred. This network of relations has given the clan extensive contacts throughout Neph and Vemion shires.</p>\n<p>Although aging, Cobald is still an active yeoman and has taught all of his children to handle a spear and a bow. When he dies, his son Iomar will take his place at the farm and in the muster.</p>",
+        "format": 1
+      },
+      "_id": "TGslN0OnSQML0MJP",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.TGslN0OnSQML0MJP"
+    },
+    {
+      "name": "[58] Teamster",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Wagon Yoke</p>\n<p><strong>Proprietor:</strong> Sobald Sermel</p>\n<p><strong>Size:</strong> 2 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> Avg</p>\n<p>Sobald owns two large wagons and oxen to pull them. He enjoys taking loads to Tashal and Gardiren, as he finds the travel exciting and the exotic things he sees give him lots to talk about when he gets home. He has three sons; his eldest is apprenticed to his distant cousin, Erebel (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.q4D86XupQEE2wMr6]{[34] Ostler Erebel Sermel}).</p>",
+        "format": 1
+      },
+      "_id": "lsZZe6z3FKWVMIiY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.lsZZe6z3FKWVMIiY"
+    },
+    {
+      "name": "[59] Village Graveyard",
+      "type": "text",
+      "text": {
+        "content": "<p>This graveyard has monuments in Peonian, Halean, and Laranian styles. While the class system may influence life in Getha, in death everyone ends up in the same place. Villagers and Peonian acolytes care for the grounds, a service subsidized by the Constable of the keep and the Halean temple.</p>",
+        "format": 1
+      },
+      "_id": "oF549woK4WLTurvq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 6000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.oF549woK4WLTurvq"
+    },
+    {
+      "name": "[8] Temple of Halea",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Preistess: </strong>Dybrine Iastro</p>\n<p>The small Halean temple has seen better days but the temple’s staff works hard to maintain the goddess’ presence in the hundred. In an effort to foster greater attendance at the services, the Aramia (High Priestess) has emphasized the business aspects of the goddess. She hopes that worshippers will “follow the path of gold to the Handmaiden’s chambers.” While all of the craft clans tithe to the temple, few have risen to the inner circles of the Golden Handmaiden’s worship.</p>\n<ul>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.GstHJuFjTqtX57Aq]{History}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.BNamdZrMR7CKUsTd]{Shesneala}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.E8RqkJat3c7Kz6ZE]{Feast Of Halane}</li>\n</ul>\n<p> </p>\n<h2>Temple Map Key</h2>\n<p><span style=\"color:#191813\">Worshipers enter the temple through a pair of large, brass plated doors. The plates depict scenes of the pleasures that await the faithful in Corilsea, the Halean paradise.</span></p>\n<ol>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.L4jRwkjd1o9lJNox]{[H1] Temple Antechamber}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.Jpd3hw08uc6af14u]{[H2] Chamber of Selina}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.UaosJqz67vBbx0Bo]{[H3] Halean Temple Kitchen}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.QVDrQDIaA6BJpWi7]{[H4] Secret Meeting Room}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.c19VWR0yKwCK2DJN]{[H5] Watch Room}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.eG3tm05C504L09V8]{[H6] Corathar's Quarters}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.uevYKjojLoVbwzgM]{[H7] Mistress of Silk and Gold}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.RvXnKdn6X55NPbGY]{[H8] Staircase to Inner Circles}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.nFIZ35fXunCBfcK8]{[H9] Chamber of Tania}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.n1RwuGxCtYZCvYJE]{[H10] Chamber of Elomia}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.gKdLcq1l3IuXAw1W]{[H11] Solithar Sleeping Area}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.1ooGRybw179sAiG2]{[H12] Chamber of Thalia}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.EorozuphPPceLrjW]{[H13] Aramia's Chamber}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.Ej2Jv7kSWbNPY982]{[H14] Mistress of Discipline}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.HFWqOYy3jNepusc8]{[H15] Mistress of Golden Banquet}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.2anXkkj6vys1BJ4G]{[H16] Mistress of Harmonies}</li>\n<li>@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.SNcwEePeIOBVIAO5]{[H17] Mistress of Luxuriant Page}</li>\n</ol>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "2lYliFKVPvaznDJ6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.hqfbSpUlFONX5mWG"
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!ovVLKx3hZhZFZq2J.2lYliFKVPvaznDJ6"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351766,
+    "modifiedTime": 1659204351766,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "ovVLKx3hZhZFZq2J",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!ovVLKx3hZhZFZq2J"
+}

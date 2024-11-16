@@ -1,0 +1,708 @@
+{
+  "name": "Getha Keep Residents",
+  "pages": [
+    {
+      "name": "Baron Sir Chimin Indama",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"color:#191813\">Baron of Getha and Sheriff of Neph is a boisterous, middle aged knight who would rather share a stirrup cup on a hunt or wield his lance in a joust than almost anything else in life.</span></p>",
+        "format": 1
+      },
+      "_id": "ZUNLhxTRxmEYX5IO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.ZUNLhxTRxmEYX5IO"
+    },
+    {
+      "name": "Baroness Lady Myrtis Indama",
+      "type": "text",
+      "text": {
+        "content": "<p>Sister of the Earl of Neph, the Lady Myrtis has been married to Sir Chimin for over 25 years. She enjoys entertaining and the keep is the scene of huge parties and feasts when she is in residence. She is comfortable in Getha and often makes excuses to keep from traveling to Bidow when her husband’s duties require him to be there.</p>",
+        "format": 1
+      },
+      "_id": "4oHIApwiPQRe7ZCm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.4oHIApwiPQRe7ZCm"
+    },
+    {
+      "name": "Chamberlain Parond Asarne",
+      "type": "text",
+      "text": {
+        "content": "<p>Parond Asarne is a fussy little man, given to girlish squeals and tantrums when he is upset.</p>",
+        "format": 1
+      },
+      "_id": "MoUqqfxsMpWjwCux",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.MoUqqfxsMpWjwCux"
+    },
+    {
+      "name": "Clardil Baral, Treasurer",
+      "type": "text",
+      "text": {
+        "content": "<p>The son of a small noble family, Clardil Baral is very competent and a devout Laranian. His eyes are failing and he is planning to go to Lethyl to live out his days in contemplation. He lives completely for his work and has never felt a twinge of romance in his entire 47 years.</p>",
+        "format": 1
+      },
+      "_id": "HZeJzGBAqvGIQhuO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.HZeJzGBAqvGIQhuO"
+    },
+    {
+      "name": "Forilëa, Lady Myrtis’ maid",
+      "type": "text",
+      "text": {
+        "content": "<p>She is a sneaky little spy. Whatever she hears, she tells to the Baroness in a way that puts those she doesn’t like in the worst possible light.</p>",
+        "format": 1
+      },
+      "_id": "QpTMLLLa4ngyU48K",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.QpTMLLLa4ngyU48K"
+    },
+    {
+      "name": "Getha Keep Residents",
+      "type": "text",
+      "text": {
+        "content": "<p>The baron’s household consists of his immediate family, the Constable of the Keep and his family, four squires, some noble born servants, a bevy of domestic servants and 23 guardsmen.</p>\n<ul>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.ZUNLhxTRxmEYX5IO]{Baron Sir Chimin Indama}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.4oHIApwiPQRe7ZCm]{Baroness Lady Myrtis Indama}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.AOEy65RshrEwlgwG]{Lady Lysella Indama}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.ql1GiVO2LCQqOFlt]{Dysle Indama, precocious toddler}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.hFDhMyPeNFlRS5RE]{Halene Indama, squalling babe}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.Y7armFtMeX7eLxJ6]{Sir Shorisir Ewesar}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.jQiabpOdsb2TnpHs]{Lady Erlyn Immen, Lysella’s companion}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.IzB9RkKd4lFDYCud]{Lady Grunila Larchean (Lady in Waiting)}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.Ke5jirPUyhYnvJ6E]{Lady Pelycia Lournay (Lady in Waiting)}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.MoUqqfxsMpWjwCux]{Chamberlain Parond Asarne}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.RhAcRk8ePSCBrJfx]{Ildon Asane, Herald}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.UdTEM4Ixyxff4HVX]{Squire Rinis Giro}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.VqWgV8dk8S5zGJ4V]{Squire Dreen Pawade}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.DayX2olei4swbWgm]{Squire Poribir Brynath}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.98DcRu20fitoIBdM]{Squire Pers Haunty}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.itW9dnrnb52UVKuO]{Squire Maemem Inthin}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.7WGwcDYeRcCuPrJP]{Sotrin Rhythal, Chaplain}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.HZeJzGBAqvGIQhuO]{Clardil Baral, Treasurer}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.HmByyETtSMuvuUMy]{Liris the Harper, minstrel}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.T69jOYRemSKxc3Hc]{Latin Arsarl the cook}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.5jOcIUNFVJM4TRmb]{Thalyria Tyun the baker}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.Wuz65rtplDX4FSZg]{Nursemaid Weris Astal}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.QpTMLLLa4ngyU48K]{Forilëa, Lady Myrtis’ maid}</li>\n<li>@UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.vKp4EJh7dMrz1ZL1]{Wynan, Sir Chimin’s manservant}</li>\n</ul>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "H2rvNIDDtCMFKWdG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.H2rvNIDDtCMFKWdG"
+    },
+    {
+      "name": "Ildon Asane, Herald",
+      "type": "text",
+      "text": {
+        "content": "<p>He is pretentious, arrogant, and thoroughly annoying. He spends his evenings drinking wine and playing chess with Clardil Baral (@UUID[JournalEntry.0HTRKHkZ9SjA5uqT.JournalEntryPage.66Mkag0ke3r3Dwir]{[K07] Treasury}).</p>",
+        "format": 1
+      },
+      "_id": "RhAcRk8ePSCBrJfx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 550000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.RhAcRk8ePSCBrJfx"
+    },
+    {
+      "name": "Lady Erlyn Immen, Lysella’s companion",
+      "type": "text",
+      "text": {
+        "content": "<p>A lonely widow, she watches to make sure that Lysella doesn’t have a second love affair.</p>",
+        "format": 1
+      },
+      "_id": "jQiabpOdsb2TnpHs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 475000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.jQiabpOdsb2TnpHs"
+    },
+    {
+      "name": "Lady Grunila Larchean (Lady in Waiting)",
+      "type": "text",
+      "text": {
+        "content": "<p>Grunila is a placid old lady; she is the Baroness’ friend and confidant.</p>",
+        "format": 1
+      },
+      "_id": "IzB9RkKd4lFDYCud",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 487500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.IzB9RkKd4lFDYCud"
+    },
+    {
+      "name": "Lady Lysella Indama",
+      "type": "text",
+      "text": {
+        "content": "<p>A hormonally charged sixteen year old, she’s been exiled to Emerule for having a disastrous love affair – with one of her father’s squires!</p>",
+        "format": 1
+      },
+      "_id": "AOEy65RshrEwlgwG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.AOEy65RshrEwlgwG"
+    },
+    {
+      "name": "Lady Pelycia Lournay (Lady in Waiting)",
+      "type": "text",
+      "text": {
+        "content": "<p>A young noble woman waiting for her family to make a match, Pelycia enjoys fending off the flirtatious advances of the squires and visiting her grandfather, the Lord of Drilen.</p>",
+        "format": 1
+      },
+      "_id": "Ke5jirPUyhYnvJ6E",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 493750,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.Ke5jirPUyhYnvJ6E"
+    },
+    {
+      "name": "Latin Arsarl the cook",
+      "type": "text",
+      "text": {
+        "content": "<p>Latin Arsarl is Maranis Arsarl’s sister in law (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.q4D86XupQEE2wMr6]{[34] Ostler Erebel Sermel}). She loves her nephew and niece and, like Maranis, despises her distant cousin Arlarn (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.rR1ZBG7TMHdKW55r]{[56] Cottar Arlan Faleren}).</p>",
+        "format": 1
+      },
+      "_id": "T69jOYRemSKxc3Hc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 675000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.T69jOYRemSKxc3Hc"
+    },
+    {
+      "name": "Liris the Harper, minstrel",
+      "type": "text",
+      "text": {
+        "content": "<p>Liris is a tall, blonde contralto that likes to sing slow, sad ballads of unrequited love and chivalrous sacrifice.</p>",
+        "format": 1
+      },
+      "_id": "HmByyETtSMuvuUMy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 650000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.HmByyETtSMuvuUMy"
+    },
+    {
+      "name": "Nursemaid Weris Astal",
+      "type": "text",
+      "text": {
+        "content": "<p>A tall and plain girl, Weris has embarked on a campaign to find a husband that will be able to provide for her after she leaves the keep. She has focused on the sergeants of the guard and has sampled them all. She is very friendly with the Urdels and will probably pick Gaery as her future husband.</p>",
+        "format": 1
+      },
+      "_id": "Wuz65rtplDX4FSZg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 693750,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.Wuz65rtplDX4FSZg"
+    },
+    {
+      "name": "Sir Shorisir Ewesar",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Shorisir manages the Keep and the manor as he has for the last 24 years.</p>",
+        "format": 1
+      },
+      "_id": "Y7armFtMeX7eLxJ6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 450000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.Y7armFtMeX7eLxJ6"
+    },
+    {
+      "name": "Sotrin Rhythal, Chaplain",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"color:#191813\">A pretentious man, he harbors petty feelings against all of the nobles in the household. The others are not worthy of his consideration. </span></p>",
+        "format": 1
+      },
+      "_id": "7WGwcDYeRcCuPrJP",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 598438,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.7WGwcDYeRcCuPrJP"
+    },
+    {
+      "name": "Squire Dreen Pawade",
+      "type": "text",
+      "text": {
+        "content": "<p>Dreen Pawade is the senior squire and the son of the Constable of Heru, one of Baron Chimin’s childhood friends. He has always worked very hard to bring honor to his family. Dreen will turn 21 in six months and has taken it on himself to recruit another member of his clan as his successor.</p>",
+        "format": 1
+      },
+      "_id": "VqWgV8dk8S5zGJ4V",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 587500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.VqWgV8dk8S5zGJ4V"
+    },
+    {
+      "name": "Squire Maemem Inthin",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"color:#191813\">Maemem’s father holds Visporton manor in Tonallen Hundred from the Earl of Neph, the Baron’s brother in law. Maeman is almost 20 and is starting to get nervous about his prospects. He is a good squire and is considering asking the Baron if he can stay at Getha in some capacity. Neither returning to his family’s small manor nor joining the Order of the Lady of Paladins are attractive to him. He is in love with the Lady Lysella but knows that his family is no match for hers. He often dreams about running off with the baron’s daughter.</span></p>",
+        "format": 1
+      },
+      "_id": "itW9dnrnb52UVKuO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 597657,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.itW9dnrnb52UVKuO"
+    },
+    {
+      "name": "Squire Pers Haunty",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Shorisir’s squire, Pers Haunty is a quiet sixteen year old. He dreads returning to his family’s quiet manor in Ominstru. Sir Shorisir has spoken with Sir Luisan Kelic about placing the young man at Jenkald once Pers is knighted.</p>",
+        "format": 1
+      },
+      "_id": "98DcRu20fitoIBdM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 596875,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.98DcRu20fitoIBdM"
+    },
+    {
+      "name": "Squire Poribir Brynath",
+      "type": "text",
+      "text": {
+        "content": "<p>Poribir Brynath is 17. He came to Getha eight years ago as a page. His family is moderately wealthy, holding Dremdrew manor in the Moina Hundred and his service with the Baron has given him a chance to see the great city of Tashal. His favorite experience was competing in the Royal Chelebin Tournament.</p>",
+        "format": 1
+      },
+      "_id": "DayX2olei4swbWgm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 593750,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.DayX2olei4swbWgm"
+    },
+    {
+      "name": "Squire Rinis Giro",
+      "type": "text",
+      "text": {
+        "content": "<p>His parents hold the manor of Nausch in Tonallen Hundred. The Giro are an ancient clan but are mired in the rustic backwaters near Gardiren. Rinis is a lusty sixteen year old and has enjoyed working his way through the maids. He had a liaison with Lysella and knows that his father would disown him should he be dismissed from service in scandal, just as Galdyk’s father did. Recently, he has started to enjoy the company of the town’s perfumer (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.dlj9hqxT3PuEyKvd]{[10] Perfumer}), an affair that he looks upon as purely physical and she views as a gold mine of information.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "UdTEM4Ixyxff4HVX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 575000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.UdTEM4Ixyxff4HVX"
+    },
+    {
+      "name": "Thalyria Tyun the baker",
+      "type": "text",
+      "text": {
+        "content": "<p>Thalyria Tyun is tall, beautiful, and completely off her rocker. Having been jilted by a number of poorly chosen lovers, she has recently sworn off men. In her despair, she is talking about joining the Peonian church for a life of celibacy.</p>",
+        "format": 1
+      },
+      "_id": "5jOcIUNFVJM4TRmb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 687500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.5jOcIUNFVJM4TRmb"
+    },
+    {
+      "name": "Wynan, Sir Chimin’s manservant",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Chimin’s manservant, Wynan, has been with the Baron since Chimin was knighted. The old man is proud and quick to correct the younger servants – even the squires – when tasks are not completed to his standards. He knows more about Sir Chimin than anyone else and will never forget an insult, no matter how slight, to his lord.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "vKp4EJh7dMrz1ZL1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1150000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.vKp4EJh7dMrz1ZL1"
+    },
+    {
+      "name": "Halene Indama, squalling babe",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baron’s granddaughter is 6 months old. Colicky, she has yet to sleep through the night.</p>",
+        "format": 1
+      },
+      "_id": "hFDhMyPeNFlRS5RE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 437500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.kr6kzbxmRr1001ua.JournalEntryPage.8B2iBplikqRcmi2x"
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.hFDhMyPeNFlRS5RE"
+    },
+    {
+      "name": "Dysle Indama, precocious toddler",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baron’s grandson is 18 months old.</p>",
+        "format": 1
+      },
+      "_id": "ql1GiVO2LCQqOFlt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 425000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.kr6kzbxmRr1001ua.JournalEntryPage.4EwlLBaKIzubjbFF"
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!4NR7FTcMl5114Gt8.ql1GiVO2LCQqOFlt"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351733,
+    "modifiedTime": 1659204351733,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "4NR7FTcMl5114Gt8",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!4NR7FTcMl5114Gt8"
+}

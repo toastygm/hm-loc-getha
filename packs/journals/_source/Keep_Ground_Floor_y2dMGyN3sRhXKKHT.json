@@ -1,0 +1,184 @@
+{
+  "name": "Keep Ground Floor",
+  "pages": [
+    {
+      "name": "[K11] Keep Kitchens",
+      "type": "text",
+      "text": {
+        "content": "<p>The kitchens are always busy and Latin the cook has no time for idlers. All of the kitchen staff and, occasionally, the harper sleep here.</p>",
+        "format": 1
+      },
+      "_id": "oymoGRoEc8LTkqsL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!y2dMGyN3sRhXKKHT.oymoGRoEc8LTkqsL"
+    },
+    {
+      "name": "[K12] Chamberlain's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>This room belongs to the chamberlain of the keep. His duties include overseeing the household staff and ensuring that the larder and other stores are well stocked.</p>",
+        "format": 1
+      },
+      "_id": "8cx4ttoBZibKtkfm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!y2dMGyN3sRhXKKHT.8cx4ttoBZibKtkfm"
+    },
+    {
+      "name": "[K13] Guard Hall",
+      "type": "text",
+      "text": {
+        "content": "<p style=\"box-sizing:border-box;user-select:text\">The guard hall is where most of the keep’s routine business occurs. Most common born visitors never see any other part of the keep. The guard hall serves as a large common area during the day. Servants and guardsmen take their meals here when not on duty. At night, this becomes the guard barracks as cots and chests are spread around the room. The tables are always crowded with men playing games of chance.</p>\n<p style=\"box-sizing:border-box;user-select:text\">Mond Urdel is the arkalin of the 2nd Decad. He is only sixteen and away from his home village of Hundholt for the first time. He is eager to show that he is worthy of carrying on the family’s service and often volunteers for duties that other, older and wiser, soldiers pass up. As a result, the men of his mani detest him and make fun of him behind his back.</p>\n<p style=\"box-sizing:border-box;user-select:text\">The senior arkalin Iratan Astal of the 1st Decad is a scion of the “hideworking” Astals. As a minor son he stood no chance of inheriting and chose a soldier’s life instead. He is very happy as a single, wealthy man and has no interest in settling down. He has started a “friendship” with Arlan Faleren (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.rR1ZBG7TMHdKW55r]{[56] Cottar Arlan Faleren}). He knows that he is not the only one sharing her favors but isn’t picky.</p>",
+        "format": 1
+      },
+      "_id": "hFrF2283pMOw6Rgx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!y2dMGyN3sRhXKKHT.hFrF2283pMOw6Rgx"
+    },
+    {
+      "name": "[K14] Keep Entry Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The entry hall has two portcullises. The chamberlain is very proud that they are tested and oiled each month, usually by a page that has managed to get on his bad side.</p>",
+        "format": 1
+      },
+      "_id": "LIhasBPO0qpoIVKm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!y2dMGyN3sRhXKKHT.LIhasBPO0qpoIVKm"
+    },
+    {
+      "name": "[K15] Herald's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Ildon Asane is the Baron’s Herald. He is the Baron’s official messenger but is looking forward to retirement. He complains that the many leagues of riding and nights spent on the road have taken their toll on his arthritic joints.</p>",
+        "format": 1
+      },
+      "_id": "tYPXHOqSpGTqHgRo",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!y2dMGyN3sRhXKKHT.tYPXHOqSpGTqHgRo"
+    },
+    {
+      "name": "[K16] Keep Ground Floor Garderobe",
+      "type": "text",
+      "text": {
+        "content": "<p>The garderobe gets very cold and windy in the winter. The keep’s nobility prefer to use chamber pots.</p>",
+        "format": 1
+      },
+      "_id": "hf7cx8lKQ7H8auKD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!y2dMGyN3sRhXKKHT.hf7cx8lKQ7H8auKD"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351768,
+    "modifiedTime": 1659204351768,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "y2dMGyN3sRhXKKHT",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!y2dMGyN3sRhXKKHT"
+}

@@ -1,0 +1,211 @@
+{
+  "name": "Keep Basement",
+  "pages": [
+    {
+      "name": "[K01] Keep Well",
+      "type": "text",
+      "text": {
+        "content": "<p>The well, reachable through the storage area, is the keep’s water supply. Underneath this well head is a cistern that holds enough water for the entire garrison to survive on for a month.</p>",
+        "format": 1
+      },
+      "_id": "6aM3pn7vitvQFjVU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0HTRKHkZ9SjA5uqT.6aM3pn7vitvQFjVU"
+    },
+    {
+      "name": "[K02] Indama Clan Markers",
+      "type": "text",
+      "text": {
+        "content": "<p>Here, small iron marker plates memorialize the Indama clan’s members. This area was dedicated in 615. The iron plaques start on the west wall and proceed through the years as they creep eastward across the cold grey stone. The line of markers for the barons is on the northern wall.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "T29veao0hqyDzvxZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0HTRKHkZ9SjA5uqT.T29veao0hqyDzvxZ"
+    },
+    {
+      "name": "[K03] Prisoner Cells",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baron’s prisoners wait in the small, dark cells for the Shire Moot or the Baronial Hall Moot to be held. Since Sir Chimin has been spending most of his time at Getha recently, a prisoner’s wait is very short. Currently, these cells are empty.</p>",
+        "format": 1
+      },
+      "_id": "xXiB9meiKIbSIrIY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0HTRKHkZ9SjA5uqT.xXiB9meiKIbSIrIY"
+    },
+    {
+      "name": "[K04] Keep Barracks",
+      "type": "text",
+      "text": {
+        "content": "<p>The veteran guardsmen have a very comfortable barracks. Urdel yeomen have served the Indama clan since the days before the barony. They are proud to be called “shield bearers” of the Indamas and are fiercely loyal to the Baron and his family.</p>\n<ol style=\"list-style-type:lower-alpha\">\n<li>Gaery Urdel is in charge of all of the guardsmen. The molarin’s bunk is as large as any of the squires and is located against the north wall. In his time with the keep, he has seen the Baron grow to be a man and squires come and go. Gaery has spent the last forty years in the service of the Baron and will serve until his legs can no longer carry him up the stairs to the battlements. On that day, he plans to follow in the footsteps of his cousin Worisi, marry a local girl and settle down to the life of a farmer.</li>\n<li>Moryn Urdel is Gaery’s nephew and has been in the Getha Guard since he was fifteen. Now he is thirty two, he is the senior melbrin and prides himself on his watch’s professional appearance and performance. He knows that he will probably become the molarin when Gaery finally retires but he is content to be mentored by the old man.</li>\n<li>Vorkel Darion is a cousin of the Getha Darions. He is originally from Drilen, where his father is a joiner. He is content as a soldier but wonders if he would have made an even more successful craftsman. He always volunteers for the company that accompanies the Baron to the annual boar hunt as he has made the acquaintance of an Emerule lady who is both lusty and discreet.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "3AFxi1zPbstjQDMw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0HTRKHkZ9SjA5uqT.3AFxi1zPbstjQDMw"
+    },
+    {
+      "name": "[K05] Keep Armory",
+      "type": "text",
+      "text": {
+        "content": "<p>The keep’s armory holds the weapons and armor for the watch and the militia. It is the constable’s duty to inspect the contents of this room every month, a charge he keeps faithfully. The Baron’s privy vault, accessible only through the armory, holds the Indama family’s most prized possessions.</p>",
+        "format": 1
+      },
+      "_id": "wRY0fOyakjgnxFSa",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0HTRKHkZ9SjA5uqT.wRY0fOyakjgnxFSa"
+    },
+    {
+      "name": "[K06] Butler's Pantry",
+      "type": "text",
+      "text": {
+        "content": "<p>The butler’s pantry stores the food and drink for the more refined palates. The butler and the chamberlain inventory this area on a regular basis to deter petty theft. This area holds the household silver and linen services, expensive spices, and other trappings of nobility. The scullery maids sleep here at night.</p>",
+        "format": 1
+      },
+      "_id": "sTdozq4tQObtHzUq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0HTRKHkZ9SjA5uqT.sTdozq4tQObtHzUq"
+    },
+    {
+      "name": "[K07] Treasury",
+      "type": "text",
+      "text": {
+        "content": "<p>The Treasurer, Clardil Baral, is responsible for the financial well being of the Barony. His small room houses a huge strongbox that contains the Baron’s treasury. Although he controls a king’s ransom, he is content to sleep among his ledgers and chests in a dark, spartan room.</p>",
+        "format": 1
+      },
+      "_id": "66Mkag0ke3r3Dwir",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0HTRKHkZ9SjA5uqT.66Mkag0ke3r3Dwir"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351715,
+    "modifiedTime": 1659204351715,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "0HTRKHkZ9SjA5uqT",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!0HTRKHkZ9SjA5uqT"
+}

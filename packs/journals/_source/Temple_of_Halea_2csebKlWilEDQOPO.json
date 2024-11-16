@@ -1,0 +1,562 @@
+{
+  "name": "Temple of Halea",
+  "pages": [
+    {
+      "name": "Feast Of Halane",
+      "type": "text",
+      "text": {
+        "content": "<p>The major festival for the Halean Church is the Feast of Halane. This holiday is celebrated from 1 – 7 Halane. Despite the conservative demeanor of most of the people in Fethael Hundred, few can resist a good party. Everyone is welcome but revelers are expected to make donations to Haleaʹs temple. Only worshippers of the Middle and Inner Circle can participate in the high mass on the seventh day.</p>\n<p>The festival is held on the village square, beginning each day with a feast at midday and ending with a revel that lasts until dawn. The feast includes a wide variety of foods and drink (many with stimulant or aphrodisiac properties.) While the festival‐goers eat and drink, scantily clad priestesses perform Eleri Plays portraying Haleaʹs grace and her fury. Each theatrical production is centered on the theme of the day.</p>\n<p>The names of the festival days come from the names of the seven handmaidens of Halea.</p>\n<ol>\n<li>Halane: The Day of Welcome ‐ Selina (Princess of Abundance). The festival begins with a parade around the town. The priestesses ride gilded chariots and throw coins and small tokens to the crowds. The temple throws open its doors for all to enter and sample the luxury of Halea. Businessmen believe that passing through the temple’s doors brings luck in the coming year.</li>\n<li>Halane: The Day of Endeavor ‐ Elomia (Princess of Enterprise). Traditionally, tradesmen renew yearly contracts on the second day of the feast. The afternoon is devoted to the choosing of apprentices and the promotion of young men to journeymen. It is rare in the small hundred for a journeyman to become a master but, when it does happen, his promotion is celebrated with a special toast and a private service in the temple.</li>\n<li>Halane: The Day of the Joyous Song ‐ Dulcia (Princess of Harmony). The afternoon features an open‐ air concert and much dancing. Halean priestesses sing solo and in choir. Dancing is held around a bonfire that is lit at the end of the square. Those that imbibe too heavily have been known to dance their way into the river but, so far, no one has perished from the sudden dunking.</li>\n<li>Halane: The Day of Retribution ‐ Sardura (Princess of the Golden Wrath). Haleans celebrate this as day of retribution against oath breakers and cheats. The festivities start with a gladiator tournament (a plaisance) and an archery competition. Mock trials are sometimes held to satirize public figures.</li>\n<li>Halane: The Day of Chance – Thalia (Princess of Fortune). Games of chance run rampant on this day of the festival. The temple sponsors a footrace around the town. Money bet on this day is said to double if you are in favor with Halea. The day’s Eleri Play reminds practitioners that the goddess is fickle and no one should press their luck.</li>\n<li>Halane: The Day of Indulgence ‐ Glaopea (Princess of the Feast). This is the final public day of the festival. The Halean temple provides a luscious feast for everyone. The food is tasty and plentiful. Barrels of fine cider and mead are tapped and everyone may drink freely until the barrels are empty.</li>\n<li>Halane: The Day of Golden Excess – Tania (Princess of the Brief Ecstasy). On the seventh day the temple is closed to the public and practitioners of the Middle and Inner Circles participate in a special high mass. The festival culminates with an Eleri Play, special songs, and dances. The townsfolk consider it impolite to stand in the square and stare at the temple as the sounds of the drums go on and on...</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "E8RqkJat3c7Kz6ZE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.E8RqkJat3c7Kz6ZE"
+    },
+    {
+      "name": "History",
+      "type": "text",
+      "text": {
+        "content": "<p>Fifty years ago the Halean temple in Tashal felt that it needed to expand the church’s influence beyond the walls of the great city. They sent emissaries to visit the major trading towns in the kingdom; specifically those that were home to a tenant royal or that commanded a crossroads or trading route. The results were not all that the priestesses had hoped for.</p>\n<p>Part of the challenge the church faced was the antagonistic stance of the Laranians and Peonians that already occupied these towns. In places like Kiban, the delegation was flatly refused and its members verbally abused. In others, the priestesses were informed that the town already possessed a brothel and had no use for another. It seemed that the self‐sufficient folk of Kaldor’s towns didn’t appreciate the garish sights and lewd practices of a “foreign religion.”</p>\n<p>In Getha the Baron was not interested in their pleas, only their gifts. He waved off the counsels of the Laranians and told the Haleans “if you can find a place that doesn’t bother anyone and pay your taxes on time, you can labor and prosper like everyone else.” No one had ever accused Baron Indama of eloquence. In years since, the family joke was that their great‐uncle’s bishopric was bought with Halean gold. Ignoring the Baron’s crass manner, the priestesses started the process of establishing a temple in the village.</p>\n<p>Since building a temple would have been prohibitively expensive, one of Halea’s faithful, a litigant named Quiribor, sold the church one of his unused buildings. Sitting on the keep’s square, the structure had been a bonded warehouse. A bit cramped and full of drafts, it was a bargain for the price. Over the years, the stark exterior of the building has been softened with climbing vines and the deft application of paint to the stone work. It is now a colorful landmark on the Silver Way</p>\n<h3>Description</h3>\n<p>The Halean temple’s interior has seen better days. Astute worshipers may notice that the tapestries in the halls are a bit faded and the rooms are decorated in an old fashioned style but the temple’s staff puts every effort into maintaining the goddess’ presence in the hundred. In addition to the seven priestesses, the temple houses four corathar (acolytes) and four solithar (guardsmen).</p>\n<p>Getha’s congregation is small but Mistress Dybrine, the Aramia, works hard to expand her influence by attracting newcomers or former worshippers to the temple. The goddess’ congregation is separated into three circles, depending on their piety and their initiation into the mysteries of the church. Because the Outer Circle is open to anyone who can afford a slight donation, the church feels that the true worshippers belong to the Middle and Inner Circles of initiates.</p>\n<p>The worshippers of the Inner Circle celebrate the goddess in all her aspects. These members often speak of catching glimpses of the goddess at the height of sexual climax and of the soul cleansing acts that they participate in during a shesneala. As in most religions, this circle is the smallest. In Getha, only the physician (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.OKcUsAAjYU8vYhpk]{[21] Physician}), the litigant (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.Zhw8C3GuF1HRmOWD]{[24] Litigant}), and the apothecary (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.QpgFWhsbp1RGsJ53]{[22] Apothecary}) stand in the Inner Circle of the goddess’ worship.</p>\n<p>The step between the Inner Circle and Middle Circle is an important and philosophical one. The Middle Circle members tend to be more down‐to‐earth. They are interested in the goddess for the economic and financial benefit that membership in the temple brings. Nowhere is this truer than in Getha, where the conservative worshippers are hesitant to abandon their inhibitions and participate in the public (or at least group) rites of Tania. They prefer to follow the Princess of Enterprise and use the temple as a social club for its business contacts and investment capital.</p>\n<p>The Middle Circle of the Getha Temple has almost ten members. The whitesmith, Shositiri, is a regular member of the weekly service and the Andin clan has been rising in the temple, since the success of their salt works at Sezaze. Mistress Dybrine has also been working diligently to persuade the mason (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.XTGDRdFXXO09HKHC]{[16] Mason}) to show more devotion and has hinted that the temple might be able to assist him in pursuing a contract to add a new stone tower to Elmeze manor. The members of the Sermel, Berma, and Darion clans tithe but have little interest in attending the monthly high mass. With this attitude in mind, Mistress Dybrine has instructed Mistress Morgrenë to expand the economic message in the weekly shesneala. These celebrations now limit the erotic arts and concentrate on finance. This shift has helped draw some of the more conservative members of the community back to the church.</p>\n<p>Despite her efforts, the Aramia has not been able to raise much interest among the tradesmen in the western part of the hundred. Mistress Dybrine is planning to buy a pavilion for a tour of the manors west of the Fethryn River. The general attitude was summed up when Ledis Berma, the innkeeper of Hyzevel, commented, “I haven’t seen my cousin without her clothes on in forty years and I’m not traveling two days to see how she’s grown.”</p>",
+        "format": 1
+      },
+      "_id": "GstHJuFjTqtX57Aq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.GstHJuFjTqtX57Aq"
+    },
+    {
+      "name": "Shesneala",
+      "type": "text",
+      "text": {
+        "content": "<p>The weekly shesneala is an evening service and is open to members of the Middle Circle and Inner Circle of the Temple. Held in the Chamber of Tania, the celebration starts with a light meal. Members of the congregation mingle and discuss the activities and events of the town while sipping wine and eating small dainties. The service begins with the hypnotic beat of drums and a procession of corathar leading the priestesses into the chamber. The worshippers form a circle around the Aramia, join hands, and sing the opening hymn. As the corathar accompany the service with flutes and drums, the ring of worshippers sways in time with the music while the priestess in the center performs a ritual dance.</p>\n<p>Once they finish the hymn, the celebrant remains standing and the worshippers sit in a circle on the floor or on pillows. The priestess leads the congregation as they recite a litany asking for the goddess’ blessing. After the litany, the Aramia or one of the priestesses gives an allegorical reading on a specific topic or aspect of the goddess. Once the reading is complete, a final hymn ends the celebration.</p>\n<p>The hymn is the cue for the solithar to carry in sideboards laden with drinks and finger foods, each specially prepared by the cook Milycia. Not all of the tidbits are drugged but the food is notable because their ingredients have aphrodisiac properties. During this time the priestesses move around the room, discussing the allegory or talking about business with members of the congregation. Some of the worshippers adjourn to the Chamber of Elomia and continue their discussions while others retire downstairs for private devotions with a corathar or priestess.</p>\n<p>The monthly shesneala has the same structure but there is more of everything. The ceremony includes more hymns, a longer liturgy, and more dancing. Another example is that the allegory is often accompanied by a short play, acted out by some of the parishioners and a priestess. After the service, worshippers tend to stay in the Chamber of Tania and participate in dancing, food, and intercourse ‐ verbal and physical.</p>\n<p>Worshipers enter the temple through a pair of large, brass plated doors. The plates depict scenes of the pleasures that await the faithful in Corilsea, the Halean paradise.</p>\n<ol>\n<li>The antechamber is decorated with anatomically correct statues of six of Halea’s handmaidens. The statue of the handmaiden Selina (Princess of Abundance) is in the Chamber of Selina [2].</li>\n<li>The Chamber of Selina is open to the public. The chamber is beautifully appointed, with comfortable furniture and simple morsels at the sideboards and small tables. Incense fills the room. Functionally the room is like a club’s meeting room, where members discuss contacts and share gossip.</li>\n<li>The kitchen is at one end of the hall. A large, locked, cabinet of wines and cordials fill the other alcove. The kitchen is small but immaculately clean. The servants sleep here. The cook, Milycia, came to the temple with the Aramia over 15 years ago. She makes regular shopping trips to Tashal for special herbs and additives. She has gained a nickname among the temple insiders of “Mother Love” for her aphrodisiac‐ based hors d’oeuvres.</li>\n<li>This room, accessible only through the Aramia’s chambers, is the temple’s secret meeting room. Sensitive documents are stored here, since only the Aramia has the key to the door at the top of the stairs.</li>\n<li>The “watch room” is available to celebrants that enjoy observing through peepholes, rather than partaking, in the activities. As the room is reachable only through the Chamber of Elomia, only members of the temple’s Inner and Middle Circles may use this room.</li>\n<li>The corathar’s quarters are small rooms; each dominated by a large bed. All three of these rooms are currently occupied. Private worship sessions are available for a donation, usually 10 ‐ 50d.</li>\n<li>One of Halea’s “plain pennies”, Derien the Ralithina (Mistress of Silk and Gold) is obsessed with facts and figures. A born‐accountant, Derien spends long, lonely hours working on the temple’s accounts and financial projections.</li>\n<li>This staircase is as far as anyone of the Outer Circle is allowed. The walls are painted with murals of the goddess engaged in mind‐boggling contortions, each more fantastic than the last as they lead a worshipper up the stairs. Under the stairs is a closet where instruments and larger items are stored. The rear courtyard houses the privy.</li>\n<li>Celebrations in the Chamber of Tania (Princess of Brief Ecstasy) are open to members who have attained at least the Middle Circle of the goddess’ favor. The rituals of the weekly and monthly shesneala (the lay masses) are held in this room. Aside from the musicians’ platform in the corner, there is no permanent furniture in this room. Silken pillows and low couches are scattered throughout the room. The elaborate decor, the wine and spirits, the incense and music, and the fine imported delicacies all contribute to the central theme of sensual, erotic, pleasure.</li>\n<li>The Chamber of Elomia (Princess of Enterprise) is open to the Middle Circle and Inner Circle of worshipers. Decorated in dark leather and solid furniture, this is a businesslike room. The temple library is housed here, a collection that contains economic as well as sexual and religious works. Here, members get financial counseling and have a place where they can hear information about business opportunities such as pending legal actions, investment opportunities, and the availability of franchises. Inner Circle worshipers come here to pursue purely business concerns, away from the distractions of the Chamber of Tania.</li>\n<li>The solithar sleep here when they are not assisting the priestesses in devotions.</li>\n<li>Games of chance are available in the Chamber of Thalia (Princess of Fortune.) Card games and dice are popular, with large amounts of cash changing hands on nightly basis. The temple takes a 10% commission of all the bets – to honor the goddess and cover their expenses. Like the rest of this floor of the temple, a person must have attained the Middle Circle before they may partake in the pleasures of this chamber.</li>\n<li>The Aramia’s chamber is often the site of very delicate, high level meetings. A huge, circular bed dominates the room. Few have sampled the celestial delights of its warm silk and fur covers. Those that have maintain the discretion Halea demands of her truest adherents. The current Aramia (High Priestess) Dybrine is a short, buxom fifty‐something woman. She is energetic, playful, and a master politician. She likes to tantalize the craftsmen in the village with glimpses of her creamy flesh at the moment most calculated to shock them.</li>\n<li>Forli the Kilina (Mistress of Discipline) has spies everywhere. She is the Aramiaʹs lover and all of the Corathar report directly to her. Forli knows of the perfumer’s wiles and the litigant’s coercions but has filed them away for future use. Forli is a young (22) black haired woman who isn’t shy when it comes to distracting people and getting them to talk.</li>\n<li>Haelinë the Lorsina (Mistress of Golden Banquet) is a worldly, middle‐ aged woman from Thay. There are so few devotees in the hundred that only the temple staff and the village physician attend the temple’s monthly shesneala ceremonies. Haelinë enjoys making the physician the center of the ceremony, as she maintains that his Thardic training makes him “equal to any of the priestesses” in the goddess’ service. Mistress Haelinë is also responsible for planning and organizing the Feast of Halane.</li>\n<li>Morgrenë is the Yishiva (Mistress of Harmonies) and is in charge of the weekly Shesneala services. Unlike the monthly ceremonies, these are quiet affairs that focus on the economic, rather than sexual, aspects of Halean worship.</li>\n<li>Mistress Jundael is only eighteen but she is a prodigy. As the Desilea (Mistress of Luxuriant Page), her abilities outshine many more experienced priestesses. She was sent to Getha from Tashal out of jealousy. She is responsible for the Chamber of Selina and is considered the hostess of the Getha Temple. She is always on hand to meet the celebrants as they enter the temple. Few can view this slender, fair‐skinned red head and think to turn away from the Goddess.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "BNamdZrMR7CKUsTd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.BNamdZrMR7CKUsTd"
+    },
+    {
+      "name": "[H10] Chamber of Elomia",
+      "type": "text",
+      "text": {
+        "content": "<p>The Chamber of Elomia (Princess of Enterprise) is open to the Middle Circle and Inner Circle of worshipers. Decorated in dark leather and solid furniture, this is a businesslike room. The temple library is housed here, a collection that contains economic as well as sexual and religious works. Here, members get financial counseling and have a place where they can hear information about business opportunities such as pending legal actions, investment opportunities, and the availability of franchises. Inner Circle worshipers come here to pursue purely business concerns, away from the distractions of the Chamber of Tania.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "n1RwuGxCtYZCvYJE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.n1RwuGxCtYZCvYJE"
+    },
+    {
+      "name": "[H11] Solithar Sleeping Area",
+      "type": "text",
+      "text": {
+        "content": "<p>The solithar sleep here when they are not assisting the priestesses in devotions.</p>",
+        "format": 1
+      },
+      "_id": "gKdLcq1l3IuXAw1W",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.gKdLcq1l3IuXAw1W"
+    },
+    {
+      "name": "[H12] Chamber of Thalia",
+      "type": "text",
+      "text": {
+        "content": "<p>Games of chance are available in the Chamber of Thalia (Princess of Fortune.) Card games and dice are popular, with large amounts of cash changing hands on nightly basis. The temple takes a 10% commission of all the bets – to honor the goddess and cover their expenses. Like the rest of this floor of the temple, a person must have attained the Middle Circle before they may partake in the pleasures of this chamber.</p>",
+        "format": 1
+      },
+      "_id": "1ooGRybw179sAiG2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.1ooGRybw179sAiG2"
+    },
+    {
+      "name": "[H13] Aramia's Chamber",
+      "type": "text",
+      "text": {
+        "content": "<p>The Aramia’s chamber is often the site of very delicate, high level meetings. A huge, circular bed dominates the room. Few have sampled the celestial delights of its warm silk and fur covers. Those that have maintain the discretion Halea demands of her truest adherents. The current Aramia (High Priestess) Dybrine is a short, buxom fifty‐something woman. She is energetic, playful, and a master politician. She likes to tantalize the craftsmen in the village with glimpses of her creamy flesh at the moment most calculated to shock them.</p>",
+        "format": 1
+      },
+      "_id": "EorozuphPPceLrjW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.EorozuphPPceLrjW"
+    },
+    {
+      "name": "[H14] Mistress of Discipline",
+      "type": "text",
+      "text": {
+        "content": "<p>Forli the Kilina (Mistress of Discipline) has spies everywhere. She is the Aramiaʹs lover and all of the Corathar report directly to her. Forli knows of the perfumer’s wiles and the litigant’s coercions but has filed them away for future use. Forli is a young (22) black haired woman who isn’t shy when it comes to distracting people and getting them to talk.</p>",
+        "format": 1
+      },
+      "_id": "Ej2Jv7kSWbNPY982",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.Ej2Jv7kSWbNPY982"
+    },
+    {
+      "name": "[H15] Mistress of Golden Banquet",
+      "type": "text",
+      "text": {
+        "content": "<p>Haelinë the Lorsina (Mistress of Golden Banquet) is a worldly, middle‐ aged woman from Thay. There are so few devotees in the hundred that only the temple staff and the village physician attend the temple’s monthly shesneala ceremonies. Haelinë enjoys making the physician the center of the ceremony, as she maintains that his Thardic training makes him “equal to any of the priestesses” in the goddess’ service. Mistress Haelinë is also responsible for planning and organizing the Feast of Halane.</p>",
+        "format": 1
+      },
+      "_id": "HFWqOYy3jNepusc8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.HFWqOYy3jNepusc8"
+    },
+    {
+      "name": "[H16] Mistress of Harmonies",
+      "type": "text",
+      "text": {
+        "content": "<p>Morgrenë is the Yishiva (Mistress of Harmonies) and is in charge of the weekly Shesneala services. Unlike the monthly ceremonies, these are quiet affairs that focus on the economic, rather than sexual, aspects of Halean worship.</p>",
+        "format": 1
+      },
+      "_id": "2anXkkj6vys1BJ4G",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.2anXkkj6vys1BJ4G"
+    },
+    {
+      "name": "[H17] Mistress of Luxuriant Page",
+      "type": "text",
+      "text": {
+        "content": "<p>Mistress Jundael is only eighteen but she is a prodigy. As the Desilea (Mistress of Luxuriant Page), her abilities outshine many more experienced priestesses. She was sent to Getha from Tashal out of jealousy. She is responsible for the Chamber of Selina and is considered the hostess of the Getha Temple. She is always on hand to meet the celebrants as they enter the temple. Few can view this slender, fair‐skinned red head and think to turn away from the Goddess.</p>",
+        "format": 1
+      },
+      "_id": "SNcwEePeIOBVIAO5",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.SNcwEePeIOBVIAO5"
+    },
+    {
+      "name": "[H1] Temple Antechamber",
+      "type": "text",
+      "text": {
+        "content": "<p>The antechamber is decorated with anatomically correct statues of six of Halea’s handmaidens. The statue of the handmaiden Selina (Princess of Abundance) is in the Chamber of Selina (@UUID[JournalEntry.2csebKlWilEDQOPO.JournalEntryPage.Jpd3hw08uc6af14u]{[H2] Chamber of Selina}).</p>",
+        "format": 1
+      },
+      "_id": "L4jRwkjd1o9lJNox",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.L4jRwkjd1o9lJNox"
+    },
+    {
+      "name": "[H2] Chamber of Selina",
+      "type": "text",
+      "text": {
+        "content": "<p>The Chamber of Selina is open to the public. The chamber is beautifully appointed, with comfortable furniture and simple morsels at the sideboards and small tables. Incense fills the room. Functionally the room is like a club’s meeting room, where members discuss contacts and share gossip.</p>",
+        "format": 1
+      },
+      "_id": "Jpd3hw08uc6af14u",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 550000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.Jpd3hw08uc6af14u"
+    },
+    {
+      "name": "[H3] Halean Temple Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>The kitchen is at one end of the hall. A large, locked, cabinet of wines and cordials fill the other alcove. The kitchen is small but immaculately clean. The servants sleep here. The cook, Milycia, came to the temple with the Aramia over 15 years ago. She makes regular shopping trips to Tashal for special herbs and additives. She has gained a nickname among the temple insiders of “Mother Love” for her aphrodisiac‐based hors d’oeuvres.</p>",
+        "format": 1
+      },
+      "_id": "UaosJqz67vBbx0Bo",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 575000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.UaosJqz67vBbx0Bo"
+    },
+    {
+      "name": "[H4] Secret Meeting Room",
+      "type": "text",
+      "text": {
+        "content": "<p>This room, accessible only through the Aramia’s chambers, is the temple’s secret meeting room. Sensitive documents are stored here, since only the Aramia has the key to the door at the top of the stairs.</p>",
+        "format": 1
+      },
+      "_id": "QVDrQDIaA6BJpWi7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 587500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.QVDrQDIaA6BJpWi7"
+    },
+    {
+      "name": "[H5] Watch Room",
+      "type": "text",
+      "text": {
+        "content": "<p>The “watch room” is available to celebrants that enjoy observing through peepholes, rather than partaking, in the activities. As the room is reachable only through the Chamber of Elomia, only members of the temple’s Inner and Middle Circles may use this room.</p>",
+        "format": 1
+      },
+      "_id": "c19VWR0yKwCK2DJN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 593750,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.c19VWR0yKwCK2DJN"
+    },
+    {
+      "name": "[H6] Corathar's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The corathar’s quarters are small rooms; each dominated by a large bed. All three of these rooms are currently occupied. Private worship sessions are available for a donation, usually 10 ‐ 50d.</p>",
+        "format": 1
+      },
+      "_id": "eG3tm05C504L09V8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 596875,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.eG3tm05C504L09V8"
+    },
+    {
+      "name": "[H7] Mistress of Silk and Gold",
+      "type": "text",
+      "text": {
+        "content": "<p>One of Halea’s “plain pennies”, Derien the Ralithina (Mistress of Silk and Gold) is obsessed with facts and figures. A born‐accountant, Derien spends long, lonely hours working on the temple’s accounts and financial projections.</p>",
+        "format": 1
+      },
+      "_id": "uevYKjojLoVbwzgM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 598438,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.uevYKjojLoVbwzgM"
+    },
+    {
+      "name": "[H8] Staircase to Inner Circles",
+      "type": "text",
+      "text": {
+        "content": "<p>This staircase is as far as anyone of the Outer Circle is allowed. The walls are painted with murals of the goddess engaged in mind‐boggling contortions, each more fantastic than the last as they lead a worshipper up the stairs. Under the stairs is a closet where instruments and larger items are stored. The rear courtyard houses the privy.</p>",
+        "format": 1
+      },
+      "_id": "RvXnKdn6X55NPbGY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 599219,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.RvXnKdn6X55NPbGY"
+    },
+    {
+      "name": "[H9] Chamber of Tania",
+      "type": "text",
+      "text": {
+        "content": "<p>Celebrations in the Chamber of Tania (Princess of Brief Ecstasy) are open to members who have attained at least the Middle Circle of the goddess’ favor. The rituals of the weekly and monthly shesneala (the lay masses) are held in this room. Aside from the musicians’ platform in the corner, there is no permanent furniture in this room. Silken pillows and low couches are scattered throughout the room. The elaborate decor, the wine and spirits, the incense and music, and the fine imported delicacies all contribute to the central theme of sensual, erotic, pleasure.</p>",
+        "format": 1
+      },
+      "_id": "nFIZ35fXunCBfcK8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 599610,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!2csebKlWilEDQOPO.nFIZ35fXunCBfcK8"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351728,
+    "modifiedTime": 1659204351728,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "2csebKlWilEDQOPO",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!2csebKlWilEDQOPO"
+}
