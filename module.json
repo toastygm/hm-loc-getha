@@ -1,9 +1,8 @@
 {
   "id": "hm-loc-getha",
-  "name": "hm-loc-getha",
   "title": "Getha Keep",
   "description": "Getha is the largest village in Fethael Hundred. The seat and ancestral home of the Indama clan, this village also provides goods and services to Silver Way caravans and travelers.",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "bugs": "https://github.com/toastygm/hm-loc-getha/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -14,10 +13,9 @@
       "flags": {}
     }
   ],
-  "minimumCoreVersion": "10",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "12.331"
   },
   "scripts": [
     "scripts/init.js"
@@ -27,7 +25,8 @@
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
       }
     ]
   },
@@ -35,19 +34,29 @@
     {
       "label": "Getha Keep Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db",
-      "type": "Scene"
+      "path": "packs/scenes",
+      "type": "Scene",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Getha Keep Journals",
       "name": "journals",
-      "path": "packs/journals.db",
-      "type": "JournalEntry"
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-getha/",
   "manifest": "https://github.com/toastygm/hm-loc-getha/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-getha/releases/download/v1.2.3/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-getha/releases/download/v1.3.0/module.zip",
   "flags": {
     "allowBugReporter": true
   }
