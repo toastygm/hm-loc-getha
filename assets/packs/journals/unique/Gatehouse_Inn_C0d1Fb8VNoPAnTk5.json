@@ -1,0 +1,265 @@
+{
+  "name": "Gatehouse Inn",
+  "pages": [
+    {
+      "name": "[G1] Taproom",
+      "type": "text",
+      "text": {
+        "content": "<p>The taproom is a well-lit and airy room; it can become noisy during market days. Cold food and beer are served during the day. Guests that wish a full, hot meal are invited to return in the evenings.</p>",
+        "format": 1
+      },
+      "_id": "VDjapB38RRm3u9CJ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.VDjapB38RRm3u9CJ"
+    },
+    {
+      "name": "[G2] Side Bar",
+      "type": "text",
+      "text": {
+        "content": "<p>Special guests and friends of the Sermel’s use this side bar on a regular basis. It can also be rented for special occasions or meetings.</p>",
+        "format": 1
+      },
+      "_id": "Xp3s6Fexd3untCyQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.Xp3s6Fexd3untCyQ"
+    },
+    {
+      "name": "[G3] Servants' Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Servants’ Room.</p>",
+        "format": 1
+      },
+      "_id": "fvqhFQqw9WQd8mTu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.fvqhFQqw9WQd8mTu"
+    },
+    {
+      "name": "[G4] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>The kitchen is a single story annex. Scullery maids are often seen going to the well in the square or working in the kitchen’s courtyard.</p>",
+        "format": 1
+      },
+      "_id": "Mi8Wsii8ckQbalmk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.Mi8Wsii8ckQbalmk"
+    },
+    {
+      "name": "[G5] Brewhouse",
+      "type": "text",
+      "text": {
+        "content": "<p>Olmael makes a decent porter and light ales in his brewhouse. He buys cider and stronger liquors from Zarel Flaeren (@UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.7Qz3FyveCo33TVyM]{[52] Cottar Zarel Faleren}).</p>",
+        "format": 1
+      },
+      "_id": "Kh3tIoYCH2C5clFU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.Kh3tIoYCH2C5clFU"
+    },
+    {
+      "name": "[G6] Cellar",
+      "type": "text",
+      "text": {
+        "content": "<p>Store room.</p>",
+        "format": 1
+      },
+      "_id": "Y0tStmujFHrIRLuc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.Y0tStmujFHrIRLuc"
+    },
+    {
+      "name": "[G7] Olmel Family Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Olmael’s family lives above the side bar. His mother occupies the bed next to the door. Granny Semel came to live with her son, Olmael, after being found wandering the green in her shift. She claimed to have been looking for her geese. Friends and relatives started searching for the missing fowl but, when someone remembered that she didn’t keep geese, the search was called off and Granny sent to live with her eldest son for her own safety.</p>",
+        "format": 1
+      },
+      "_id": "XYFykN985NTjQcqc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.XYFykN985NTjQcqc"
+    },
+    {
+      "name": "[G8] Guest Rooms",
+      "type": "text",
+      "text": {
+        "content": "<p>Guest rooms are on the second floor. The best rooms face the river. The second class rooms face the square and overlook the kitchen’s courtyard.</p>",
+        "format": 1
+      },
+      "_id": "JYSr8QSWzWqdo8hm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.JYSr8QSWzWqdo8hm"
+    },
+    {
+      "name": "[G9] Dormitory",
+      "type": "text",
+      "text": {
+        "content": "<p>Olmael keeps a dormitory at the back of the second floor for the servants of the guests.</p>",
+        "format": 1
+      },
+      "_id": "tY379NIzA5GaR4SD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!C0d1Fb8VNoPAnTk5.tY379NIzA5GaR4SD"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351737,
+    "modifiedTime": 1659204351737,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "C0d1Fb8VNoPAnTk5",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!C0d1Fb8VNoPAnTk5"
+}

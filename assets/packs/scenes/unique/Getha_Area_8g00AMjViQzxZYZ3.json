@@ -1,0 +1,2497 @@
+{
+  "_id": "8g00AMjViQzxZYZ3",
+  "name": "Getha Area",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/8g00AMjViQzxZYZ3-thumb.webp",
+  "width": 7236,
+  "height": 9659,
+  "padding": 0.1,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 100,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.25,
+    "distance": 25,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1634934785183,
+  "globalLight": true,
+  "globalLightThreshold": 0.7,
+  "darkness": 0,
+  "drawings": [
+    {
+      "_id": "LqJiCw57Zz2Suh8Q",
+      "author": "LJc1oOgukvummfb8",
+      "x": 5661,
+      "y": 6476,
+      "rotation": 0,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": null,
+      "fillAlpha": 0,
+      "strokeWidth": 0,
+      "strokeColor": null,
+      "strokeAlpha": 1,
+      "text": "The Gatehouse Inn",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#FF0000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {},
+      "texture": null,
+      "shape": {
+        "type": "r",
+        "width": 177,
+        "height": 73,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!8g00AMjViQzxZYZ3.LqJiCw57Zz2Suh8Q"
+    },
+    {
+      "_id": "jtfL4vvx6zdZHbl9",
+      "author": "LJc1oOgukvummfb8",
+      "x": 3741,
+      "y": 2084,
+      "rotation": 0,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": null,
+      "fillAlpha": 0,
+      "strokeWidth": 0,
+      "strokeColor": null,
+      "strokeAlpha": 1,
+      "text": "N",
+      "fontFamily": "Signika",
+      "fontSize": 180,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {},
+      "texture": null,
+      "shape": {
+        "type": "r",
+        "width": 124,
+        "height": 153,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!8g00AMjViQzxZYZ3.jtfL4vvx6zdZHbl9"
+    },
+    {
+      "_id": "ek4qR2qhC5ZpFxCJ",
+      "author": "LJc1oOgukvummfb8",
+      "x": 3082,
+      "y": 4520,
+      "rotation": 0,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": null,
+      "fillAlpha": 0,
+      "strokeWidth": 0,
+      "strokeColor": null,
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "The Leaky Bucket Inn",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#FF0000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {},
+      "shape": {
+        "type": "r",
+        "width": 177,
+        "height": 73,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!8g00AMjViQzxZYZ3.ek4qR2qhC5ZpFxCJ"
+    }
+  ],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "TsC9gQGCbO0PeJYW",
+      "entryId": "AGCo7Vp98DkBa13Q",
+      "x": 6288,
+      "y": 4039,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "A",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/29bf5f81_A.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "XalQhND6O8ebLIBY",
+      "text": "[A] Gatehouse",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.TsC9gQGCbO0PeJYW"
+    },
+    {
+      "_id": "2Jd1iNgqcqsIyKai",
+      "entryId": "AGCo7Vp98DkBa13Q",
+      "x": 4440,
+      "y": 3580,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "B",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/add9baaa_B.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "orRXicOf98uMhibj",
+      "text": "[B] Upper Gatehouse",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.2Jd1iNgqcqsIyKai"
+    },
+    {
+      "_id": "TjxcGIZoIprKh1Rw",
+      "entryId": "AGCo7Vp98DkBa13Q",
+      "x": 5596,
+      "y": 3623,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "C",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/afe34607_C.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "itev5xyGZN5i7LCA",
+      "text": "[C] Ioin’s Hall",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.TjxcGIZoIprKh1Rw"
+    },
+    {
+      "_id": "zK62vUJivhuQkb5R",
+      "entryId": "AGCo7Vp98DkBa13Q",
+      "x": 5737,
+      "y": 3532,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "D",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/f2077640_D.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "CNtpwVFfqb1TDyxs",
+      "text": "[D] Stables",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.zK62vUJivhuQkb5R"
+    },
+    {
+      "_id": "VKfqNeebRrYdujCe",
+      "entryId": "AGCo7Vp98DkBa13Q",
+      "x": 5311,
+      "y": 3530,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "E",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/796593d_E.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "rNxeMOrXMoGJdetZ",
+      "text": "[E] Getha Keep",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.VKfqNeebRrYdujCe"
+    },
+    {
+      "_id": "tgouz1BErSPZoBZU",
+      "entryId": "kr6kzbxmRr1001ua",
+      "x": 5721,
+      "y": 3858,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "F",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/207d3476_F.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "TY9PyL5BAzFwHj9x",
+      "text": "[F] Tithe Barn",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.tgouz1BErSPZoBZU"
+    },
+    {
+      "_id": "Uv8WV200kOkv88sc",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5076,
+      "y": 4389,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "13",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/a4c0cd76_13.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "TKgZZ2snrs5o9UEc",
+      "text": "[13] Fish Pond",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.Uv8WV200kOkv88sc"
+    },
+    {
+      "_id": "60CU1brD378bNY8F",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5593,
+      "y": 4892,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "59",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/f4ed8040_59.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "oF549woK4WLTurvq",
+      "text": "[59] Village Graveyard",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.60CU1brD378bNY8F"
+    },
+    {
+      "_id": "agAn4VzQV8HmsVt6",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5775,
+      "y": 5190,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "18",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/a26a4aaf_18.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "EGHaZJHEsMgw4VGw",
+      "text": "[18] Temple of Peoni",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.agAn4VzQV8HmsVt6"
+    },
+    {
+      "_id": "Wa25DLfcCyDONfdt",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5827,
+      "y": 5440,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "20",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/6f92adc4_20.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "N2kvt0tKseLV825y",
+      "text": "[20] Hospital",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.Wa25DLfcCyDONfdt"
+    },
+    {
+      "_id": "cFDLgyIZM7oKW7NB",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6243,
+      "y": 5297,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "52",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/943fd265_52.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "7Qz3FyveCo33TVyM",
+      "text": "[52] Cottar Zarel Faleren",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.cFDLgyIZM7oKW7NB"
+    },
+    {
+      "_id": "5jaJCjOMPg4BRNIU",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6214,
+      "y": 5087,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "54",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/a52568af_54.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "3YUuyvHCLAUF5fo8",
+      "text": "[54] Half-Villein Hoalda Faleren",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.5jaJCjOMPg4BRNIU"
+    },
+    {
+      "_id": "loPidT6WKnhCDQkR",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6379,
+      "y": 4950,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "30",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/78bdfd11_30.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "lGrdWUA5CWo5XQHE",
+      "text": "[30] Carpenter Turin Cybela",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.loPidT6WKnhCDQkR"
+    },
+    {
+      "_id": "sLH9GW8lbuP9cSfZ",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6551,
+      "y": 4922,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "29",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b2c95007_29.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Mq68rHCBG9C3n0qo",
+      "text": "[29] Chandler",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.sLH9GW8lbuP9cSfZ"
+    },
+    {
+      "_id": "jv4Y20uYUClswXNT",
+      "entryId": "2csebKlWilEDQOPO",
+      "x": 6537,
+      "y": 5111,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "8",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/d1741b8c_8.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "hqfbSpUlFONX5mWG",
+      "text": "[8] Temple of Halea",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.jv4Y20uYUClswXNT"
+    },
+    {
+      "_id": "A4MgsR2LpMJ6QYzi",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6727,
+      "y": 4790,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "55",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/f96c2774_55.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "RRE9lHSlZnaqZ4OY",
+      "text": "[55] Thatcher",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.A4MgsR2LpMJ6QYzi"
+    },
+    {
+      "_id": "pWgfOc6YeSevof0W",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6913,
+      "y": 5114,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "16",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/cc88b9bd_16.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "XTGDRdFXXO09HKHC",
+      "text": "[16] Mason",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.pWgfOc6YeSevof0W"
+    },
+    {
+      "_id": "8UZnH8CdWfWKLhYV",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6458,
+      "y": 5474,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "32",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/23c7d9af_32.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "txGXxaOInX790toQ",
+      "text": "[32] Salter",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.8UZnH8CdWfWKLhYV"
+    },
+    {
+      "_id": "4RZV6zNOvmMmuC6Q",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6956,
+      "y": 5273,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "33",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/764b0f40_33.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "uQ4fXxCthQp8VBMj",
+      "text": "[33] Metalsmith",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.4RZV6zNOvmMmuC6Q"
+    },
+    {
+      "_id": "ByeIPmlrzGOVc606",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6764,
+      "y": 5611,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "26",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/e56f94f6_26.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "FZsqX6i4fbGjxLnN",
+      "text": "[26] Clothier",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.ByeIPmlrzGOVc606"
+    },
+    {
+      "_id": "iPhnz1CsPnVHmoP1",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6840,
+      "y": 5799,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "12",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/902f0409_12.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Wraw2Kd9DfUACPRI",
+      "text": "[12] Carpenter Regan Astal",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.iPhnz1CsPnVHmoP1"
+    },
+    {
+      "_id": "D7WokIDe7Re4TyOm",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6264,
+      "y": 5632,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "19",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/f6b10974_19.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "BUA6dhDqP01avphn",
+      "text": "[19] Mercantyler Tonatar Krabel",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.D7WokIDe7Re4TyOm"
+    },
+    {
+      "_id": "Z5bwMNTQB7xuQcQh",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6436,
+      "y": 5739,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "24",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/c6e408a8_24.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Zhw8C3GuF1HRmOWD",
+      "text": "[24] Litigant",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.Z5bwMNTQB7xuQcQh"
+    },
+    {
+      "_id": "huqLrAJw7f6v7Ubq",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6495,
+      "y": 5790,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "10",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/62e5ec17_10.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "dlj9hqxT3PuEyKvd",
+      "text": "[10] Perfumer",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.huqLrAJw7f6v7Ubq"
+    },
+    {
+      "_id": "tJcUhkVCLTVhka45",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6470,
+      "y": 5907,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "23",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/8bd9f23d_23.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "oSxO1cfnuXN0DMnO",
+      "text": "[23] Moneylender",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.tJcUhkVCLTVhka45"
+    },
+    {
+      "_id": "HSGJIxjKzmzKZmbo",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6710,
+      "y": 6063,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "7",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b30edda3_7.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "WfeFwzzb9Yymflzr",
+      "text": "[7] Bond House",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.HSGJIxjKzmzKZmbo"
+    },
+    {
+      "_id": "SJpM8zqGC08xhfmL",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6442,
+      "y": 6236,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "22",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/1e923eb2_22.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "QpgFWhsbp1RGsJ53",
+      "text": "[22] Apothecary",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.SJpM8zqGC08xhfmL"
+    },
+    {
+      "_id": "rKSlHyCF6Nm2pmdy",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6111,
+      "y": 6171,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "9",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/60cd6d9_9.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "9Y6t4OynEYewBZxI",
+      "text": "[9] Hall of the Mangai",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.rKSlHyCF6Nm2pmdy"
+    },
+    {
+      "_id": "zcv7KGnbvsLoPsMu",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5793,
+      "y": 5883,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "25",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/233b9d33_25.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "fAX4U9zFXOI4D0m7",
+      "text": "[25] Scribe",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.zcv7KGnbvsLoPsMu"
+    },
+    {
+      "_id": "6shxouId7jovJQlt",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5927,
+      "y": 5742,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "21",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/6476a12f_21.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "OKcUsAAjYU8vYhpk",
+      "text": "[21] Physician",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.6shxouId7jovJQlt"
+    },
+    {
+      "_id": "cluP9tEvdt5MsSD0",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5160,
+      "y": 5438,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "39",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b0bfc4aa_39.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "mkv3UMMsZ8iKjOja",
+      "text": "[39] Cottar Rerbel Tyun",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.cluP9tEvdt5MsSD0"
+    },
+    {
+      "_id": "jh1gK52mFYbAARPy",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5005,
+      "y": 5561,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "40",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/61ed6186_40.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "geOrsWoCPZ0ZnM5C",
+      "text": "[40] Villein Krovin Dyren",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.jh1gK52mFYbAARPy"
+    },
+    {
+      "_id": "r3OJ1NOJBBX67KVX",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5217,
+      "y": 5736,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "38",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/ed17509_38.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "9TnP4E3cEQbbQEop",
+      "text": "[38] Half-Villein Pulinia Tyun",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.r3OJ1NOJBBX67KVX"
+    },
+    {
+      "_id": "wQr1jKmZaFPEgzbJ",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5360,
+      "y": 5581,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "57",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/a29c2906_57.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "TGslN0OnSQML0MJP",
+      "text": "[57] Farmer Cobald Darion",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.wQr1jKmZaFPEgzbJ"
+    },
+    {
+      "_id": "a4HFFjA41PBFHklM",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4933,
+      "y": 5695,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "44",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/9fefcdb2_44.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "tt3TtmagHwZhINq6",
+      "text": "[44] Half-Villein Merdin Churil",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.a4HFFjA41PBFHklM"
+    },
+    {
+      "_id": "WR9jjgf2e5vcyMQd",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5059,
+      "y": 5841,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "37",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b0417544_37.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "gOj8RetruVShMcSb",
+      "text": "[37] Half-Villein Maranis Arsarl",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.WR9jjgf2e5vcyMQd"
+    },
+    {
+      "_id": "kgKWhXHcK1xeQ0DP",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4771,
+      "y": 5922,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "58",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/9fdfa01b_58.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "lsZZe6z3FKWVMIiY",
+      "text": "[58] Teamster",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.kgKWhXHcK1xeQ0DP"
+    },
+    {
+      "_id": "63JYHO8z2LW871QU",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4842,
+      "y": 6017,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "28",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/ab5433bc_28.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "OimSYYI8rDMaWuUp",
+      "text": "[28] Ostler Dargir Yaleh",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.63JYHO8z2LW871QU"
+    },
+    {
+      "_id": "T9loblF1hlXNmOeF",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4574,
+      "y": 5814,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "43",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/3426df07_43.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "GPgiHZW73o1b8dVO",
+      "text": "[43] Woodward",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.T9loblF1hlXNmOeF"
+    },
+    {
+      "_id": "kI8yqviCXt1x1mhA",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4519,
+      "y": 5680,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "45",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/2f608781_45.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "rSssaWJ72CY2Ijf1",
+      "text": "[45] Villein Soris Kleve",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.kI8yqviCXt1x1mhA"
+    },
+    {
+      "_id": "M5N15NOXkwlQ48tC",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4302,
+      "y": 5586,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "46",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b8bd5ff4_46.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "xEF7qgXBmvxyQplX",
+      "text": "[46] Half-Villein Therin Oralis",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.M5N15NOXkwlQ48tC"
+    },
+    {
+      "_id": "0FIU7PlGqF5sn7e3",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4102,
+      "y": 5429,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "47",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/f9dcea43_47.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "AOz2cLSOq0wOeRe6",
+      "text": "[47] Half-Villein Ildon Oralis - Herder",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.0FIU7PlGqF5sn7e3"
+    },
+    {
+      "_id": "loxfsxthkzKWHvl2",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 3963,
+      "y": 5243,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "48",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/736716de_48.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "le6XKVdKupVRaawA",
+      "text": "[48] Half-Villein Labra Nelt",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.loxfsxthkzKWHvl2"
+    },
+    {
+      "_id": "P9WbpVEqwDq3Beuq",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 3813,
+      "y": 5195,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "49",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/a7c633d_49.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "DDcswiTqlslX4rUX",
+      "text": "[49] Villein Charael Churil",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.P9WbpVEqwDq3Beuq"
+    },
+    {
+      "_id": "O8NVOkNLMa0vXc01",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 3239,
+      "y": 4078,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "34",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/159d6165_34.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "q4D86XupQEE2wMr6",
+      "text": "[34] Ostler Erebel Sermel",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.O8NVOkNLMa0vXc01"
+    },
+    {
+      "_id": "i4qLRu9UQw3KknIZ",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 2917,
+      "y": 4372,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "56",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/eeb1c001_56.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "rR1ZBG7TMHdKW55r",
+      "text": "[56] Cottar Arlan Faleren",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.i4qLRu9UQw3KknIZ"
+    },
+    {
+      "_id": "bWh2Je0Q2YVvzg3i",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 3136,
+      "y": 4512,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "35",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/261e5c76_35.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "5mGhgPAr0boqgPNB",
+      "text": "[35] The Leaky Bucket",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.bWh2Je0Q2YVvzg3i"
+    },
+    {
+      "_id": "NWR6vuPQRyKHbzjr",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 3487,
+      "y": 4337,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "27",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b96cc491_27.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "EyPpa7vg1UmII8nd",
+      "text": "[27] Mercantyler Varybis Haral",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.NWR6vuPQRyKHbzjr"
+    },
+    {
+      "_id": "pCosK4QWzNJqmG27",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 3371,
+      "y": 4818,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "53",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/321d53aa_53.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "SgHIbmRuM6FrWrtE",
+      "text": "[53] Half-Villein Thirlan Faleren",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.pCosK4QWzNJqmG27"
+    },
+    {
+      "_id": "Kt5mYEZNo8ulhEJt",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 3606,
+      "y": 5003,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "51",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/86354128_51.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "YcxWlwfrPtjf2es2",
+      "text": "[51] Beadle",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.Kt5mYEZNo8ulhEJt"
+    },
+    {
+      "_id": "Y572I04172lmvmke",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5234,
+      "y": 6229,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "42",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/458679a8_42.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "u058yeDU2VYIm3x9",
+      "text": "[42] Reeve",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.Y572I04172lmvmke"
+    },
+    {
+      "_id": "IfPupjshu2bvGEhB",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5359,
+      "y": 6329,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "15",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/f7a89e40_15.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "fPyUHraTxGBmO2Ag",
+      "text": "[15] Farmer Medil Jontroben",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.IfPupjshu2bvGEhB"
+    },
+    {
+      "_id": "05GWswnvWVo4ZQAF",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5726,
+      "y": 6638,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/85388270_4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ko2BOZpwhDjFRYOg",
+      "text": "[4] The Gatehouse Inn",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.05GWswnvWVo4ZQAF"
+    },
+    {
+      "_id": "6JevR880eJdyLPSs",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6056,
+      "y": 6819,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/7aef8d5a_2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "H1exin8bS9XUpQbh",
+      "text": "[2] Tentmaker",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.6JevR880eJdyLPSs"
+    },
+    {
+      "_id": "rZSRZkZoPUyDuc4d",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6291,
+      "y": 6662,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b9a898f7_3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "637wctYPS0ULCv2b",
+      "text": "[3] Woodcrafter",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.rZSRZkZoPUyDuc4d"
+    },
+    {
+      "_id": "KI9YcYk9GmvTPyUa",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6345,
+      "y": 6447,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "17",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/a05d517a_17.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "81BQDj2lD3arOKdU",
+      "text": "[17] Farmer Lanasai Asaka",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.KI9YcYk9GmvTPyUa"
+    },
+    {
+      "_id": "lADR4Fy0V9SHirJl",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6833,
+      "y": 6622,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "6",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/fc9e30e6_6.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "vN0F77B2305NjOKh",
+      "text": "[6] Whitesmith",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.lADR4Fy0V9SHirJl"
+    },
+    {
+      "_id": "SOSnSdgsti2AEZui",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 7351,
+      "y": 7024,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "5",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/f17e18ad_5.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "agoFPFnO2zADjdWJ",
+      "text": "[5] Miller",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.SOSnSdgsti2AEZui"
+    },
+    {
+      "_id": "1DgsLIDTydsDYPxz",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 7127,
+      "y": 6382,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "11",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/6d608a3c_11.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "sffnzGoBHuR1cZsZ",
+      "text": "[11] Potter",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.1DgsLIDTydsDYPxz"
+    },
+    {
+      "_id": "YeHn7LNkbZbcTDu3",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6432,
+      "y": 7306,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "14",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/a29abe1b_14.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "oMdAauuI8i6bmqIU",
+      "text": "[14] Farmer Worisi Urdel",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.YeHn7LNkbZbcTDu3"
+    },
+    {
+      "_id": "nGBOihelXFId6RxL",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6391,
+      "y": 7780,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/91f7bef1_1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "v0RSXCWfiBk3PvpE",
+      "text": "[1] Royal Toll House",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.nGBOihelXFId6RxL"
+    },
+    {
+      "_id": "cfbNdAr4R4qgGqMv",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 7243,
+      "y": 7856,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "31",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/5f410632_31.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "BjmOtAEZn3yUDnOG",
+      "text": "[31] Hideworker",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.cfbNdAr4R4qgGqMv"
+    },
+    {
+      "_id": "5YfrNmrBbazK5iMe",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 6633,
+      "y": 8344,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "50",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/b92e22c3_50.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "tLN5AxQA1aoZPxUU",
+      "text": "[50] Charcoaler",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.5YfrNmrBbazK5iMe"
+    },
+    {
+      "_id": "yDWSzOYSvBDMUSNe",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 5336,
+      "y": 8442,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "36",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/e28cd5b3_36.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "SWZfTxDbIgN9C8F0",
+      "text": "[36] Goose Green",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.yDWSzOYSvBDMUSNe"
+    },
+    {
+      "_id": "zeS466WMvANExMQl",
+      "entryId": "ovVLKx3hZhZFZq2J",
+      "x": 4211,
+      "y": 9207,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "41",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/journal-icon-numbers/d4ee99e5_41.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "hshmnqV37xACsO8r",
+      "text": "[41] Orchard",
+      "global": false,
+      "_key": "!scenes.notes!8g00AMjViQzxZYZ3.zeS466WMvANExMQl"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [
+    {
+      "_id": "HgVWqDbkjqadORyA",
+      "width": 648,
+      "height": 788,
+      "x": 3900,
+      "y": 1800,
+      "z": 100,
+      "rotation": 15,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "overhead": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "texture": {
+        "src": "modules/hm-loc-getha/assets/images/compass-rose-black.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "roof": false,
+      "_key": "!scenes.tiles!8g00AMjViQzxZYZ3.HgVWqDbkjqadORyA"
+    }
+  ],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "hm-loc-getha": {
+      "imported": "1.1.0"
+    },
+    "scene-packer": {
+      "packed-with-version": "2.3.13",
+      "sourceId": "Scene.2FCqHkQ5bMJM7KzY",
+      "hash": "8458719b16eae805469223a8b068b5d9395d331c",
+      "source-module": "hm-loc-getha"
+    },
+    "cf": {
+      "id": null,
+      "path": "Getha",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-loc-getha.scenes.8g00AMjViQzxZYZ3"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-getha/assets/scenes/getha-area-player.png",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204425327,
+    "modifiedTime": 1659204425327,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!8g00AMjViQzxZYZ3"
+}

@@ -1,0 +1,211 @@
+{
+  "name": "Keep Third Floor",
+  "pages": [
+    {
+      "name": "[K31] Baron's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baron and Baroness share this simple, comfortable room. A large map of Nephshire covers the wall above his bed. The other walls are covered with banners of knights that he has defeated in tournament. The Baron’s most prized possession is a splintered lance; the one he carried when he won the Royal Chelebin Tournament’s jousting competition in 694. A faded handkerchief is tied around the butt of the lance - Lady Myrtis’ favor. The Baron’s manservant, Wynan has a cot in the corner.</p>",
+        "format": 1
+      },
+      "_id": "OabR5koIkz26J0NP",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RRuNKLtd2QGTNvN4.OabR5koIkz26J0NP"
+    },
+    {
+      "name": "[K32] Lady Myrtis' Solar",
+      "type": "text",
+      "text": {
+        "content": "<p style=\"box-sizing:border-box;user-select:text\">Lady Myrtis’ Solar is the center of noble society in Fethael Hundred. Marriages, reputations, and futures are made or broken while the Baroness and her ladies entertain and do their needlepoint. At night, the Baroness’ ladies in waiting share this room.</p>\n<p style=\"box-sizing:border-box;user-select:text\">Lady Myrtis has a lot on her mind. Last winter she was horrified to learn of a torrid romance between her daughter Lysella and one of the Baron's squires, Gladyk Onaret. The Baron swiftly dismissed the boy, despite his family's lengthy and honorable service to the Indama clan, and sent Lysella to live in the family's hunting lodge at Emerule. Sir Chimin felt that the remote manor would serve to keep their 16 year old daughter away from any entanglements that might embarrass the family. Lysella's fling with a squire, and the scion of a vassal family at that, was the height of youthful misjudgment.</p>\n<p style=\"box-sizing:border-box;user-select:text\">To solve this problem, the Baroness has been subtly canvassing the kingdom's nobility for suitable husbands. Given that the general rule of nobility is that one must always try to marry up the social ladder, however, there aren’t as many choices as the Baroness would like. As Lady Myrtis casts her eye over the other tenants royal, she knows that her choices will be scarce.</p>\n<p style=\"box-sizing:border-box;user-select:text\">The Curos, the Harabors, and the Firiths are too closely related to marry, already promised or already married. The Baron of Nenda hates the Indamas. The Baron of Ternua is physically and socially repulsive. The Earl of Osel's son is a child. Lady Myrtis knows that dragging Scina Dariune to the chapel would be nice, but there are so many clamoring for his hand that the price is certain to be too dear. This process of elimination leaves the Earl of Vemion's son, Urian, as the only suitable man in the kingdom. The Baroness has set her mind firmly on bringing him to the altar within the year.</p>",
+        "format": 1
+      },
+      "_id": "Mj3l72XCqsjvRd0Y",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RRuNKLtd2QGTNvN4.Mj3l72XCqsjvRd0Y"
+    },
+    {
+      "name": "[K33] Lady Lysella's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Lysella’s room is empty except when her mother brings her back from Emerule to meet a potential suitor. When the Lady Lysella is in residence, she shares this room with Lady Erlyn Immen, a 30 something widow who was selected to “look after Lysella” when Sir Chimin gave her husband’s lands to another vassal. When this room is empty, Weris (@UUID[JournalEntry.qJgxgNjmy6KO9veW.JournalEntryPage.vhFZREYmY72PL7tu]{[K22] Keep Nursery}) occasionally uses it for her nocturnal trysts.</p>",
+        "format": 1
+      },
+      "_id": "dABG7g6GJQUHuv2C",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RRuNKLtd2QGTNvN4.dABG7g6GJQUHuv2C"
+    },
+    {
+      "name": "[K34] Baron's Family Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baron’s Hall has a long, wide dining table and is used exclusively by the Baron’s family. At night the squires sleep here.</p>",
+        "format": 1
+      },
+      "_id": "1nVHWDVJqYjlmFSG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RRuNKLtd2QGTNvN4.1nVHWDVJqYjlmFSG"
+    },
+    {
+      "name": "[K35] Page's Alcove",
+      "type": "text",
+      "text": {
+        "content": "<p>The eleven pages that serve the Baron sleep in this tiny alcove. The young noblemen, ages 7 – 12, are under the charge of Sir Shorisir. The Constable uses them as body servants to the Keep’s noble inhabitants and makes sure that the boys learn reading, writing, and etiquette.</p>",
+        "format": 1
+      },
+      "_id": "3NauSUyLiUOvtgYK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RRuNKLtd2QGTNvN4.3NauSUyLiUOvtgYK"
+    },
+    {
+      "name": "[K36] Sir Harapa's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Harapa’s rooms reflect Lady Udine’s refined tastes. She is very literate and has dedicated an entire wall of her apartment to books and her writing desk. Because Sir Harapa and his wife are no longer living in Getha, guests use these rooms when the occasion arises.</p>",
+        "format": 1
+      },
+      "_id": "0NKaf5AAslABb0Z0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RRuNKLtd2QGTNvN4.0NKaf5AAslABb0Z0"
+    },
+    {
+      "name": "[K37] Baroness' Gallery",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baroness’ Gallery provides the ladies of the keep a place to participate in services without having to descend to the main chapel.</p>",
+        "format": 1
+      },
+      "_id": "NlrMgMBHR4xkkn33",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RRuNKLtd2QGTNvN4.NlrMgMBHR4xkkn33"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351739,
+    "modifiedTime": 1659204351739,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "RRuNKLtd2QGTNvN4",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!RRuNKLtd2QGTNvN4"
+}

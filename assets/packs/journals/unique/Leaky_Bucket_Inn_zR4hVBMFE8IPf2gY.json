@@ -1,0 +1,184 @@
+{
+  "name": "Leaky Bucket Inn",
+  "pages": [
+    {
+      "name": "[L1] Taproom",
+      "type": "text",
+      "text": {
+        "content": "<p>Sersyl works the taproom with her youngest son Harden (age 11). The taproom is noisy but cozy. Sersyl will not tolerate drunks and anyone who is asked to leave is never allowed back in – ever.</p>",
+        "format": 1
+      },
+      "_id": "uvUkmwbp1cH78wxH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zR4hVBMFE8IPf2gY.uvUkmwbp1cH78wxH"
+    },
+    {
+      "name": "[L2] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>Sersyl’s husband, Rancë, does all the cooking for the Leaky Bucket. The kitchen is Rancë’s domain. His food isn’t fancy but it is tasty, warm, and filling. Their daughter Tatril (age 15) helps him.</p>",
+        "format": 1
+      },
+      "_id": "hR7YoantT3IHcF0B",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zR4hVBMFE8IPf2gY.hR7YoantT3IHcF0B"
+    },
+    {
+      "name": "[L3] Dormitory",
+      "type": "text",
+      "text": {
+        "content": "<p>The dormitory houses those who can pay for a roof over their heads but not enough for a room. Three to five guests will share the large pile of straw. The bedding is changed every month, whether it needs it or not.</p>",
+        "format": 1
+      },
+      "_id": "5M5hNSBHlZ1JhsUt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zR4hVBMFE8IPf2gY.5M5hNSBHlZ1JhsUt"
+    },
+    {
+      "name": "[L4] Master's Rooms",
+      "type": "text",
+      "text": {
+        "content": "<p>The wealthier farmers and traders rent the master’s rooms. The inn’s best accommodation is the large room in the northwestern corner. A Khuzan trader named Haral the Stout has rented this room for the summer trading season every year since Sersyl’s mother ran the inn.</p>",
+        "format": 1
+      },
+      "_id": "kPHhMv6dj73ndbZF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zR4hVBMFE8IPf2gY.kPHhMv6dj73ndbZF"
+    },
+    {
+      "name": "[L5] Family Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Sersyl and her husband share this bed and their daughter sleeps on a pallet by the door. Their son stays in the kitchen.</p>",
+        "format": 1
+      },
+      "_id": "HSE4schUhXfaV0os",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zR4hVBMFE8IPf2gY.HSE4schUhXfaV0os"
+    },
+    {
+      "name": "[L6] Cellar",
+      "type": "text",
+      "text": {
+        "content": "<p>The store room.</p>",
+        "format": 1
+      },
+      "_id": "5mWQkMGsB5rvad7G",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zR4hVBMFE8IPf2gY.5mWQkMGsB5rvad7G"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351769,
+    "modifiedTime": 1659204351769,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "zR4hVBMFE8IPf2gY",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!zR4hVBMFE8IPf2gY"
+}

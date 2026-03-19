@@ -1,0 +1,184 @@
+{
+  "name": "Keep Second Floor",
+  "pages": [
+    {
+      "name": "[K21] Baron's Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baron’s Hall is reserved for noble guests and vassals. During feasts, the Baron sits at the head table with his guests and vassals seated at the other tables. At night noble guests are invited to sleep here, warmed by the large fireplace.</p>",
+        "format": 1
+      },
+      "_id": "xh43t1gqMkiZvW6J",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qJgxgNjmy6KO9veW.xh43t1gqMkiZvW6J"
+    },
+    {
+      "name": "[K22] Keep Nursery",
+      "type": "text",
+      "text": {
+        "content": "<p>The nursery is a jumble of toys and bedding. Young Dysle and Halene Indama spend their days here in pampered splendor. Weris Astal is the nursemaid. She constantly hovers around the babies, lest Lady Myrtis perceive a second’s inattention and have her caned.</p>",
+        "format": 1
+      },
+      "_id": "vhFZREYmY72PL7tu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qJgxgNjmy6KO9veW.vhFZREYmY72PL7tu"
+    },
+    {
+      "name": "[K23] Keep Great Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The great hall is where the noble and freeborn inhabitants of the keep take their meals. At feast times, this hall is the site of raucous merriment as the unmarried nobles flirt and dance with the few eligible ladies.</p>",
+        "format": 1
+      },
+      "_id": "lgfnir8DfRP1CzBM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qJgxgNjmy6KO9veW.lgfnir8DfRP1CzBM"
+    },
+    {
+      "name": "[K24] Keep Chapel",
+      "type": "text",
+      "text": {
+        "content": "<p>The Laranian Chapel is decorated with three stained glass windows. The western window commemorates the first Indama made Baron. The central window depicts Larani vanquishing the wicked. The eastern window is dedicated to those that died in the siege of 602.</p>",
+        "format": 1
+      },
+      "_id": "KhAOvabA71SLuO2k",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qJgxgNjmy6KO9veW.KhAOvabA71SLuO2k"
+    },
+    {
+      "name": "[K25] Chaplain's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p style=\"box-sizing:border-box;user-select:text\">Sotrin Rhythal is the keep’s chaplain. He s a member of Lethyl abbey and is scheduled to eturn to the abbey in 722 to be replaced by nother priest. Sotrin feels he is Serolan Valaric’s annointed successor but Father Valaric has not deigned to comment on the matter.</p>\n<p style=\"box-sizing:border-box;user-select:text\">Sotrin is lonely at the keep, mostly because of is own snobbery. He finds Sir Chimin and Sir Harapa to be dullards, thinks the Baronness is a provincial social climber, has decided that the Lady Udine is a scheming child, and despises Sir Shorisir as a tiresome country bumpkin. He is, However, careful to cultivate the Baron’s favor and hide his opinions. He enjoys chess for its mental stimulation and backgammon for its risk. Sotrin is piously celibate and lusts only for power.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "IS4vAjkYCO7BLExQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qJgxgNjmy6KO9veW.IS4vAjkYCO7BLExQ"
+    },
+    {
+      "name": "[K26] Constable's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p style=\"box-sizing:border-box;user-select:text\">The Constable’s room is home for Sir Shorisir Ewesar and his family. Sir Shorisir’s wife, Jynlena, is noted for her good works in the village. She is especially active in recruiting the upper classes of the hundred to support the Peonian Church. Sir Shorisir’s elder daughter is thirteen and will soon leave the keep to become a lady in waiting at Sir Chimin’s brother’s manor near Gardiren.</p>\n<p style=\"box-sizing:border-box;user-select:text\">Sir Shorisir takes his responsibility to train the keep’s pages and squires very seriously. The pages are in a state of perpetual fear that the Constable will stop and correct them. He is loyal to his subordinates and works hard to reward their hard work with suitable and profitable placements. Many knights owe their positions to the Constable’s recommendations, whispered in quiet moments with Sir Chimin.</p>\n<p style=\"box-sizing:border-box;user-select:text\">He is firm friends with the molarin and views the Urdel clan as the Baron’s greatest supporters. While he is loyal and cordial with Lady Myrtis, Sir Shorisir finds the Baroness’ continual presence stifling.</p>",
+        "format": 1
+      },
+      "_id": "qXqA2l5eZEa9GJeV",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qJgxgNjmy6KO9veW.qXqA2l5eZEa9GJeV"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351767,
+    "modifiedTime": 1659204351767,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "qJgxgNjmy6KO9veW",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!qJgxgNjmy6KO9veW"
+}

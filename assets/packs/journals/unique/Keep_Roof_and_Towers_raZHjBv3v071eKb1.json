@@ -1,0 +1,76 @@
+{
+  "name": "Keep Roof and Towers",
+  "pages": [
+    {
+      "name": "[K41] Keep Falconer's Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The Falconer, Jalin Payensen, lives here with his birds and rarely mixes with others. He claims that the other servants treat him like an outsider, but the fact that he doesn’t bathe and has lice is probably why the others avoid him.</p>",
+        "format": 1
+      },
+      "_id": "NcT1k98AbhN2HCJi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!raZHjBv3v071eKb1.NcT1k98AbhN2HCJi"
+    },
+    {
+      "name": "[K42] Keep Mews",
+      "type": "text",
+      "text": {
+        "content": "<p>The Baron has turned this area into his mews.</p>",
+        "format": 1
+      },
+      "_id": "DvvU5Zdm6kygpVah",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!raZHjBv3v071eKb1.DvvU5Zdm6kygpVah"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351767,
+    "modifiedTime": 1659204351767,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "raZHjBv3v071eKb1",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!raZHjBv3v071eKb1"
+}

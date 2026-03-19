@@ -1,0 +1,189 @@
+{
+  "name": "Getha Keep Compound",
+  "pages": [
+    {
+      "name": "[A] Gatehouse",
+      "type": "text",
+      "text": {
+        "content": "<p>The watch stays in this gatehouse. An arkalin is in charge of the sentries and is always on duty in the guardroom. It is the arkalin’s responsibility to make sure that the sentries are posted and do not fall asleep. Part of the keep’s daily routine is to assemble the guard behind the gatehouse before they raise the portcullis in the morning.</p>",
+        "format": 1
+      },
+      "_id": "XalQhND6O8ebLIBY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AGCo7Vp98DkBa13Q.XalQhND6O8ebLIBY"
+    },
+    {
+      "name": "[B] Upper Gatehouse",
+      "type": "text",
+      "text": {
+        "content": "<p>A pair of sentries always guards this gate. It is only opened to allow wagons to be pulled straight through the keep’s courtyard when delivering grain to the Baron’s tithe barn (@UUID[JournalEntry.AGCo7Vp98DkBa13Q.JournalEntryPage.HdriMM7wERitYaZE]{[F] Tithe Barn}).</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "orRXicOf98uMhibj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AGCo7Vp98DkBa13Q.orRXicOf98uMhibj"
+    },
+    {
+      "name": "[C] Ioin’s Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The hall is a large open area. While daily meals are held in keep’s great hall, the Baron or his Constable uses Ioin’s Hall for special occasions and baronial court.</p>",
+        "format": 1
+      },
+      "_id": "itev5xyGZN5i7LCA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AGCo7Vp98DkBa13Q.itev5xyGZN5i7LCA"
+    },
+    {
+      "name": "[D] Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>The ground floor houses the keep’s horses. The bonded ostler, Stanil Darion, and his family live here as well. The stableboy, Taman Kleve, ran away from his family in Drilen but Stanil hasn’t told anyone.</p>\n<p>Stanil breeds and trains warhorses for Sir Chimin and the knights of the Lady of Paladins. He sells the mares and geldings to nobles throughout eastern Kaldor. Their easy gait and agility make them prized as mounts for those that operate in the thick woods and tight trails of the forests of Neph and Vemion shires.</p>\n<p>Stallions are prized for stud and only the Baron maintains them at his stud farm near Blixth. The un-castrated males are not used for war as they are prone to fight amongst themselves and disrupt a charge or column of march. When the foals have reached a year, he brings them to Getha for the Spring Fair. Older, trained colts and fillies of two years are sold at the Grain Fair in Azura and are much more expensive than the untrained foals. The Lady of Paladins train their own horses but most nobles and the larger mercenary groups are satisfied to buy trained animals.</p>\n<p>The kennels are in the northeastern corner of the yard. The Baron keeps six mastiffs and the Altish wolfhound that Sir Harapa received as a wedding gift from his cousin, Sir Taryn. The mastiffs are particularly vicious and can bring down a bear but the kennel boy, Urdin Nelt is able to calm them with soft-spoken words and whistle.</p>",
+        "format": 1
+      },
+      "_id": "CNtpwVFfqb1TDyxs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AGCo7Vp98DkBa13Q.CNtpwVFfqb1TDyxs"
+    },
+    {
+      "name": "[E] Getha Keep",
+      "type": "text",
+      "text": {
+        "content": "<p>The Keep proper.</p>",
+        "format": 1
+      },
+      "_id": "rNxeMOrXMoGJdetZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AGCo7Vp98DkBa13Q.rNxeMOrXMoGJdetZ"
+    },
+    {
+      "name": "[F] Tithe Barn",
+      "type": "text",
+      "text": {
+        "content": "<p>The tithe barn.</p>",
+        "format": 1
+      },
+      "_id": "HdriMM7wERitYaZE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.kr6kzbxmRr1001ua.JournalEntryPage.TY9PyL5BAzFwHj9x"
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AGCo7Vp98DkBa13Q.HdriMM7wERitYaZE"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204351735,
+    "modifiedTime": 1659204351735,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "AGCo7Vp98DkBa13Q",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!AGCo7Vp98DkBa13Q"
+}
