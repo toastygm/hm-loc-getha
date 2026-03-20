@@ -2466,7 +2466,7 @@
     }
   },
   "background": {
-    "src": "modules/hm-loc-getha/assets/scenes/getha-area-player.png",
+    "src": "modules/hm-loc-getha/assets/scenes/getha-area-player.webp",
     "offsetX": 0,
     "offsetY": 0,
     "scaleX": 1,
